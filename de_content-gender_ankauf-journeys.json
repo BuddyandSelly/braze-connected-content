@@ -33,12 +33,18 @@
     "Bulletpoint152": "(oder kostenlos Ware zurück)\nWir überweisen Dir sofort Dein Geld oder senden Deine Ware kostenlos zurück.",
     "CTA111": "Jetzt Einsendeschein anfordern",
     "CTA111Link": "https://www.buddyandselly.com/de-en/sell/submission-form/article?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Reactivation Email 2": "",
+    "Reactivation Shop Email ": "",
     "Subjectline211": "Spar Dir den Karton",
     "Preheader211": "Angebot direkt vor Ort, in Minuten.",
     "Headline211": "Wir sind gleich um die Ecke",
     "BodyText211": "falls Dir das Einpacken und Versenden gerade zu viel Aufwand ist – wusstest Du, dass Du Deine Teile auch einfach persönlich vorbeibringen kannst?",
-    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung."
+    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung.",
+    "Reactivation Reminder Email ": "",
+    "Subjectline311": "Kleiner Reminder: Dein Geld liegt noch im Schrank",
+    "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
+    "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
+    "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
   },
   "Male ": {
     "Reactivation Email 1": "",
@@ -74,12 +80,18 @@
     "Bulletpoint152": "(oder kostenlos Ware zurück)\nWir überweisen Dir sofort Dein Geld oder senden Deine Ware kostenlos zurück.",
     "CTA111": "Jetzt Einsendeschein anfordern",
     "CTA111Link": "https://www.buddyandselly.com/de-en/sell/submission-form/article?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Reactivation Email 2": "",
+    "Reactivation Shop Email ": "",
     "Subjectline211": "Spar Dir den Karton",
     "Preheader211": "Angebot direkt vor Ort, in Minuten.",
     "Headline211": "Wir sind gleich um die Ecke",
     "BodyText211": "falls Dir das Einpacken und Versenden gerade zu viel Aufwand ist – wusstest Du, dass Du Deine Teile auch einfach persönlich vorbeibringen kannst?",
-    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung."
+    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung.",
+    "Reactivation Reminder Email ": "",
+    "Subjectline311": "Kleiner Reminder: Dein Geld liegt noch im Schrank",
+    "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
+    "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
+    "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
   },
   "Unknown": {
     "Reactivation Email 1": "",
@@ -115,11 +127,17 @@
     "Bulletpoint152": "(oder kostenlos Ware zurück)\nWir überweisen Dir sofort Dein Geld oder senden Deine Ware kostenlos zurück.",
     "CTA111": "Jetzt Einsendeschein anfordern",
     "CTA111Link": "https://www.buddyandselly.com/de-en/sell/submission-form/article?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Reactivation Email 2": "",
+    "Reactivation Shop Email ": "",
     "Subjectline211": "Spar Dir den Karton",
     "Preheader211": "Angebot direkt vor Ort, in Minuten.",
     "Headline211": "Wir sind gleich um die Ecke",
     "BodyText211": "falls Dir das Einpacken und Versenden gerade zu viel Aufwand ist – wusstest Du, dass Du Deine Teile auch einfach persönlich vorbeibringen kannst?",
-    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung."
+    "BodyText221": "Unser Ankaufsteam vor Ort schaut sich Deine Stücke direkt an und macht Dir sofort ein Angebot – ganz ohne Warten auf Rückmeldung.",
+    "Reactivation Reminder Email ": "",
+    "Subjectline311": "Kleiner Reminder: Dein Geld liegt noch im Schrank",
+    "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
+    "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
+    "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
   }
 }
