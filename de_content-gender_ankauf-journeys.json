@@ -44,7 +44,12 @@
     "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
     "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
     "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
-    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein.",
+    "Reactivation Reminder Content Card": "",
+    "Headline411": "Räum auf, schick's uns, kassier ab.",
+    "BodyText411": "Dein Schrank füllt sich schneller, als Du denkst.",
+    "BodyText421": "Einsendeschein anfordern → Einpacken → Versandlabel erhalten → Kostenfrei & versichert verschicken → Geld erhalten",
+    "BodyText431": "Mehr braucht's nicht."
   },
   "Male ": {
     "Reactivation Email 1": "",
@@ -91,7 +96,12 @@
     "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
     "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
     "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
-    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein.",
+    "Reactivation Reminder Content Card": "",
+    "Headline411": "Räum auf, schick's uns, kassier ab.",
+    "BodyText411": "Dein Schrank füllt sich schneller, als Du denkst.",
+    "BodyText421": "Einsendeschein anfordern → Einpacken → Versandlabel erhalten → Kostenfrei & versichert verschicken → Geld erhalten",
+    "BodyText431": "Mehr braucht's nicht."
   },
   "Unknown": {
     "Reactivation Email 1": "",
@@ -138,6 +148,11 @@
     "Preheader311": "Dein Schrank freut sich schon auf etwas Platz",
     "Headline321": "AUFRÄUMEN WAR NOCH NIE SO EINFACH",
     "Headline311": "Wir haben noch Platz für Deine Lieblingsstücke – als Geld.",
-    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein."
+    "BodyText311": "vor ein paar Tagen haben wir Dir gezeigt, wie einfach es ist, Deine ungetragenen Teile in Geld zu verwandeln. Falls Du noch nicht dazu gekommen bist: Dein Schrank läuft Dir nicht weg, aber ein bisschen Platz (und Geld) könnten schon jetzt drin sein.",
+    "Reactivation Reminder Content Card": "",
+    "Headline411": "Räum auf, schick's uns, kassier ab.",
+    "BodyText411": "Dein Schrank füllt sich schneller, als Du denkst.",
+    "BodyText421": "Einsendeschein anfordern → Einpacken → Versandlabel erhalten → Kostenfrei & versichert verschicken → Geld erhalten",
+    "BodyText431": "Mehr braucht's nicht."
   }
 }
