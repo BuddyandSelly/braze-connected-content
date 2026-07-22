@@ -7,11 +7,11 @@
     "Headline111": "Dieses Piece lässt Dich nicht los:",
     "Headline112": "von",
     "BodyText111": "... Dein",
-    "BodyText112": "auf Deiner Wunschliste wartet noch auf Dich. Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen!",
+    "BodyText112": "von",
+    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
-    "Headline113": "Empfehlungen für Dich",
-    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "Headline113": "Empfehlungen für Dich"
   },
   "Male ": {
     "Abandoned Browse Campaign Email": "",
@@ -21,11 +21,11 @@
     "Headline111": "Dieses Piece lässt Dich nicht los:",
     "Headline112": "von",
     "BodyText111": "... Dein",
-    "BodyText112": "auf Deiner Wunschliste wartet noch auf Dich. Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen!",
+    "BodyText112": "von",
+    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
-    "Headline113": "Empfehlungen für Dich",
-    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "Headline113": "Empfehlungen für Dich"
   },
   "Unknown": {
     "Abandoned Browse Campaign Email": "",
@@ -35,10 +35,10 @@
     "Headline111": "Dieses Piece lässt Dich nicht los:",
     "Headline112": "von",
     "BodyText111": "... Dein",
-    "BodyText112": "auf Deiner Wunschliste wartet noch auf Dich. Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen!",
+    "BodyText112": "von",
+    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
-    "Headline113": "Empfehlungen für Dich",
-    "BodyText113": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "Headline113": "Empfehlungen für Dich"
   }
 }
