@@ -13,7 +13,21 @@
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
     "Headline113": "Empfehlungen für Dich",
-    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "Abandoned Cart Campaign Email": "",
+    "Subjectline211": "von",
+    "Subjectline212": "liegt noch im Korb",
+    "Preheader211": "Sichere Dir Deine Lieblingspiece",
+    "Headline211": "noch verfügbar!",
+    "BodyText211": "... Dein",
+    "BodyText212": "von",
+    "BodyText213": "wartet auf Dich! ",
+    "CTA211": "Jetzt shoppen",
+    "BodyText221": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText231": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "CTA221": "Neueste Produkte entdecken",
+    "CTA221Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid={{${cblid} | lid: '1dcgce80ow3m'}}&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
+    "Headline221": "Empfehlungen für Dich"
   },
   "Male ": {
     "Abandoned Browse Campaign Email": "",
@@ -29,7 +43,21 @@
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
     "Headline113": "Empfehlungen für Dich",
-    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "Abandoned Cart Campaign Email": "",
+    "Subjectline211": "von",
+    "Subjectline212": "liegt noch im Korb",
+    "Preheader211": "Sichere Dir Deine Lieblingspiece",
+    "Headline211": "noch verfügbar!",
+    "BodyText211": "... Dein",
+    "BodyText212": "von",
+    "BodyText213": "und viele weitere Produkte",
+    "CTA211": "Jetzt shoppen",
+    "BodyText221": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText231": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "CTA221": "Neueste Produkte entdecken",
+    "CTA221Link": "https://www.buddyandselly.com/de-de/herren/new-in?lid=q2ncdoyj9rnd&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}_&utm_content=cta",
+    "Headline221": "Empfehlungen für Dich"
   },
   "Unknown": {
     "Abandoned Browse Campaign Email": "",
@@ -45,6 +73,20 @@
     "CTA1111": "Zur Wunschliste",
     "CTA1111Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=m3tcpni3kyrk&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
     "Headline113": "Empfehlungen für Dich",
-    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden."
+    "BodyText114": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "Abandoned Cart Campaign Email": "",
+    "Subjectline211": "von",
+    "Subjectline212": "liegt noch im Korb",
+    "Preheader211": "Sichere Dir Deine Lieblingspiece",
+    "Headline211": "noch verfügbar!",
+    "BodyText211": "... Dein",
+    "BodyText212": "von",
+    "BodyText213": "und viele weitere Produkte",
+    "CTA211": "Jetzt shoppen",
+    "BodyText221": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText231": "Diese E-Mail garantiert nicht die Verfügbarkeit der dargestellten Produkte. Es ist möglich, dass einzelne Artikel während des Versands bereits verkauft wurden.",
+    "CTA221": "Neueste Produkte entdecken",
+    "CTA221Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid={{${cblid} | lid: '1dcgce80ow3m'}}&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
+    "Headline221": "Empfehlungen für Dich"
   }
 }
