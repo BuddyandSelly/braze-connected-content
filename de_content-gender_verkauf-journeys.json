@@ -43,7 +43,21 @@
     "BodyText331": "*Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
     "CTA321": "Neueste Produkte entdecken",
     "CTA321Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid={{${cblid} | lid: '1dcgce80ow3m'}}&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Headline321": "Empfehlungen für Dich"
+    "Headline321": "Empfehlungen für Dich",
+    "Wishlist Free Shipping Email": "",
+    "Subjectline411": "Versandkosten geschenkt: Jetzt",
+    "Subjectline412": "sichern",
+    "Preheader411": "Dein Gutschein ist nur für kurze Zeit gültig.",
+    "Headline411": "Versandkostenfrei bestellen!",
+    "BodyText411": "... Dein",
+    "BodyText412": "von",
+    "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
+    "BodyText414": "versandkostenfrei bestellen.",
+    "code": "{% promotion('2buyer_FS') %}",
+    "CTA411": "Zur Wunschliste",
+    "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
+    "BodyText421": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText431": "*Der Versandkostenfrei-Gutschein ist ab Versand dieser Email 14 Tage gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   },
   "Male ": {
     "Abandoned Browse Campaign Email": "",
@@ -89,7 +103,21 @@
     "BodyText331": "*Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
     "CTA321": "Neueste Produkte entdecken",
     "CTA321Link": "https://www.buddyandselly.com/de-de/herren/new-in?lid=q2ncdoyj9rnd&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}_&utm_content=cta",
-    "Headline321": "Empfehlungen für Dich"
+    "Headline321": "Empfehlungen für Dich",
+    "Wishlist Free Shipping Email": "",
+    "Subjectline411": "Versandkosten geschenkt: Jetzt",
+    "Subjectline412": "sichern",
+    "Preheader411": "Dein Gutschein ist nur für kurze Zeit gültig.",
+    "Headline411": "Versandkostenfrei bestellen!",
+    "BodyText411": "... Dein",
+    "BodyText412": "von",
+    "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
+    "BodyText414": "versandkostenfrei bestellen.",
+    "code": "{% promotion('2buyer_FS') %}",
+    "CTA411": "Zur Wunschliste",
+    "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
+    "BodyText421": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText431": "*Der Versandkostenfrei-Gutschein ist ab Versand dieser Email 14 Tage gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   },
   "Unknown": {
     "Abandoned Browse Campaign Email": "",
@@ -135,6 +163,20 @@
     "BodyText331": "*Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
     "CTA321": "Neueste Produkte entdecken",
     "CTA321Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid={{${cblid} | lid: '1dcgce80ow3m'}}&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Headline321": "Empfehlungen für Dich"
+    "Headline321": "Empfehlungen für Dich",
+    "Wishlist Free Shipping Email": "",
+    "Subjectline411": "Versandkosten geschenkt: Jetzt",
+    "Subjectline412": "sichern",
+    "Preheader411": "Dein Gutschein ist nur für kurze Zeit gültig.",
+    "Headline411": "Versandkostenfrei bestellen!",
+    "BodyText411": "... Dein",
+    "BodyText412": "von",
+    "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
+    "BodyText414": "versandkostenfrei bestellen.",
+    "code": "{% promotion('2buyer_FS') %}",
+    "CTA411": "Zur Wunschliste",
+    "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button",
+    "BodyText421": "Aber beeil Dich, jedes Produkt ist nur einmal im Buddy&Selly Shop verfügbar. Beliebte Artikel sind immer schnell vergriffen! ",
+    "BodyText431": "*Der Versandkostenfrei-Gutschein ist ab Versand dieser Email 14 Tage gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   }
 }
