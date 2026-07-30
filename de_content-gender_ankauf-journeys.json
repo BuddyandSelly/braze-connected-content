@@ -168,7 +168,14 @@
     "HeaderImage1111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a69d9bcff8ec7008840f915/original.jpg?1785321915",
     "Headline1111": "Wie lange dauert der ganze Prozess wirklich?",
     "Headline1121": "Lieber persönlich? Komm einfach vorbei",
-    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort."
+    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort.",
+    "Onboarding Journey Breuninger Email": "",
+    "Subjectline1211": "Breuninger x Buddy & Selly:",
+    "Preheader1211": "5% extra auf Deinen Ankauf",
+    "Headline1211": "Mehr für Deinen Ankauf",
+    "BodyText1211": "Verkaufst Du Deine ehemaligen Lieblinge bei uns, bekommst Du ab sofort die Wahl: Auszahlung aufs Konto, oder eine Breuninger Geschenkkarte inkl. +5% extra Bonus auf Deinen Ankaufswert. Möglich ab 20€ Gutscheinwert – schick uns einfach Deine Teile, wir kümmern uns um den Rest.",
+    "Headline1221": "Du hast sogar beides in Deiner Nähe:",
+    "BodyText1221": "Unser Ankaufsshop befindet sich direkt im Breuninger – bring Deine Teile einfach vorbei und tausche sie gleich vor Ort in Deine Geschenkkarte + Bonus um."
   },
   "Male ": {
     "Reactivation Email 1": "",
@@ -339,7 +346,14 @@
     "HeaderImage1111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a69d9bcff8ec7008840f915/original.jpg?1785321915",
     "Headline1111": "Wie lange dauert der ganze Prozess wirklich?",
     "Headline1121": "Lieber persönlich? Komm einfach vorbei",
-    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort."
+    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort.",
+    "Onboarding Journey Breuninger Email": "",
+    "Subjectline1211": "Breuninger x Buddy & Selly:",
+    "Preheader1211": "5% extra auf Deinen Ankauf",
+    "Headline1211": "Mehr für Deinen Ankauf",
+    "BodyText1211": "Verkaufst Du Deine ehemaligen Lieblinge bei uns, bekommst Du ab sofort die Wahl: Auszahlung aufs Konto, oder eine Breuninger Geschenkkarte inkl. +5% extra Bonus auf Deinen Ankaufswert. Möglich ab 20€ Gutscheinwert – schick uns einfach Deine Teile, wir kümmern uns um den Rest.",
+    "Headline1221": "Du hast sogar beides in Deiner Nähe:",
+    "BodyText1221": "Unser Ankaufsshop befindet sich direkt im Breuninger – bring Deine Teile einfach vorbei und tausche sie gleich vor Ort in Deine Geschenkkarte + Bonus um."
   },
   "Unknown": {
     "Reactivation Email 1": "",
@@ -510,6 +524,13 @@
     "HeaderImage1111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a69d9bcff8ec7008840f915/original.jpg?1785321915",
     "Headline1111": "Wie lange dauert der ganze Prozess wirklich?",
     "Headline1121": "Lieber persönlich? Komm einfach vorbei",
-    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort."
+    "BodyText1111": "Du verkaufst lieber face-to-face? In ausgewählten Städten kannst Du Deine Artikel direkt in unseren Shops abgeben. Für bestimmte Top-Marken bieten wir zusätzlich unseren VIP-Service mit besonders schneller Abwicklung – Dein persönlicher Ansprechpartner berät Dich gern vor Ort.",
+    "Onboarding Journey Breuninger Email": "",
+    "Subjectline1211": "Breuninger x Buddy & Selly:",
+    "Preheader1211": "5% extra auf Deinen Ankauf",
+    "Headline1211": "Mehr für Deinen Ankauf",
+    "BodyText1211": "Verkaufst Du Deine ehemaligen Lieblinge bei uns, bekommst Du ab sofort die Wahl: Auszahlung aufs Konto, oder eine Breuninger Geschenkkarte inkl. +5% extra Bonus auf Deinen Ankaufswert. Möglich ab 20€ Gutscheinwert – schick uns einfach Deine Teile, wir kümmern uns um den Rest.",
+    "Headline1221": "Du hast sogar beides in Deiner Nähe:",
+    "BodyText1221": "Unser Ankaufsshop befindet sich direkt im Breuninger – bring Deine Teile einfach vorbei und tausche sie gleich vor Ort in Deine Geschenkkarte + Bonus um."
   }
 }
