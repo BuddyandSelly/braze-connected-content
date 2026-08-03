@@ -1,7 +1,7 @@
 {
   "Female": {
     "Greeting ": "",
-    "greeting": "{{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi, {{${first_name} | default: 'Fashion Lover'}}",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
@@ -309,7 +309,7 @@
   },
   "Male ": {
     "Greeting ": "",
-    "greeting": "{{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi, {{${first_name} | default: 'Fashion Lover'}}",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
@@ -617,7 +617,7 @@
   },
   "Unknown": {
     "Greeting ": "",
-    "greeting": "{{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi, {{${first_name} | default: 'Fashion Lover'}}",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
