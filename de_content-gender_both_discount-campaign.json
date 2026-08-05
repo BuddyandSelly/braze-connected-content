@@ -1,7 +1,7 @@
 {
   "Female": {
     "Greeting ": "",
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
@@ -72,7 +72,7 @@
     "HeaderImage711black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a2243db9008ad591cd/original.jpg?1785840802",
     "HeaderImage711pink": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a26340ce00a36714e5/original.jpg?1785840802",
     "BodyText711": "Heute Abend zählt jede Minute.",
-    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25 % Rabatt auf unsere New Ins und 35 % auf alles andere",
+    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25% Rabatt auf unsere New Ins und 35% auf alles andere",
     "Discount Email 4": "",
     "Subjectline811": "Dein Closet-Upgrade wartet – bis zu 40% Rabatt",
     "Preheader811": "Archive Sale: Sichere Dir besondere Style zu günstigen Preisen, bevor sie verschwinden",
@@ -310,7 +310,7 @@
   },
   "Male ": {
     "Greeting ": "",
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
@@ -381,7 +381,7 @@
     "HeaderImage711black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a2243db9008ad591cd/original.jpg?1785840802",
     "HeaderImage711pink": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a26340ce00a36714e5/original.jpg?1785840802",
     "BodyText711": "Heute Abend zählt jede Minute.",
-    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25 % Rabatt auf unsere New Ins und 35 % auf alles andere",
+    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25% Rabatt auf unsere New Ins und 35% auf alles andere",
     "Discount Email 4": "",
     "Subjectline811": "Dein Closet-Upgrade wartet – bis zu 40% Rabatt",
     "Preheader811": "Archive Sale: Sichere Dir besondere Style zu günstigen Preisen, bevor sie verschwinden",
@@ -619,7 +619,7 @@
   },
   "Unknown": {
     "Greeting ": "",
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}}",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Discount Email 1": "",
     "Subjectline111a": "Heute nur: 15% – unser Dankeschön an Dich",
     "Subjectline111b": "Heute nur: 20% – unser Dankeschön an Dich",
@@ -690,7 +690,7 @@
     "HeaderImage711black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a2243db9008ad591cd/original.jpg?1785840802",
     "HeaderImage711pink": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a71c4a26340ce00a36714e5/original.jpg?1785840802",
     "BodyText711": "Heute Abend zählt jede Minute.",
-    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25 % Rabatt auf unsere New Ins und 35 % auf alles andere",
+    "BodyText721": "nur heute: Late Night Shopping von 14 Uhr bis Mitternacht. Sichere dir 25% Rabatt auf unsere New Ins und 35% auf alles andere",
     "Discount Email 4": "",
     "Subjectline811": "Dein Closet-Upgrade wartet – bis zu 40% Rabatt",
     "Preheader811": "Archive Sale: Sichere Dir besondere Style zu günstigen Preisen, bevor sie verschwinden",
