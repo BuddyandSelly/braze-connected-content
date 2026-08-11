@@ -96,6 +96,15 @@
     "Headline2011": "⏱️ LETZTE STUNDEN. LETZTE STÜCKE. ⏱️",
     "BodyText2011": "Der Sale verschwindet heute Nacht",
     "BodyText2021": "heute ist der letzte Tag: FREE_AUG bringt Dir noch bis Mitternacht 30% auf New Ins und 43% auf alles andere, plus gratis Versand. Danach ist der Deal vorbei. Was bleibt: kostenloser Rückversand auf jede Bestellung, noch bis Ende August.",
+    "Content Card 1": "",
+    "Headline2111": "Bis zu -40% + gratis Versand + Rückversand geschenkt",
+    "HeaderImage2111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce11ca880088f0e694/original.jpg?1786443469",
+    "BodyText2111": "25% auf alle New Ins und 40% auf den Rest unseres Sortiments — dazu gratis Versand auf Deine Bestellung. Code LNS_UAG einfach im Warenkorb eingeben, fertig. Und weil wir's Dir leicht machen wollen: schenken wir Dir außerdem kostenlosen Rückversand, gültig bis Ende August.",
+    "Content Card 2": "",
+    "Headline2211": "Bis zu -43% — solange Dein Fund noch da ist",
+    "HeaderImage2211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce2f232d008a7b7a31/original.jpg?1786443470",
+    "BodyText2211": "heute legen wir nach: 25% auf New Ins und 43% auf alles andere, plus gratis Versand — mit dem Code FREE_SHP. Nur heute in dieser Höhe. Und nicht vergessen: der Rückversand ist jetzt ebenfalls kostenlos, noch bis Ende August.",
+    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign",
     "Abandoned Browse/Cart Campaign Email": "",
     "Subjectline1111": " jetzt bis zu 43% reduziert!",
     "Preheader1111": "Shoppe bis zu -43%",
@@ -315,8 +324,7 @@
     "Headline1911": "Nur noch 24 Stunden",
     "HeaderImage1911": "",
     "BodyText1911": "Letzte Chance, Deine Wishlist aufzustocken. Was jetzt gespeichert ist, zählt fürs finale Ranking – danach ist Einsendeschluss. Bis zu 1.000 € Gutschein warten auf die Top 3.",
-    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss.",
-    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign"
+    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss."
   },
   "Male ": {
     "Greeting ": "",
@@ -415,6 +423,15 @@
     "Headline2011": "⏱️ LETZTE STUNDEN. LETZTE STÜCKE. ⏱️",
     "BodyText2011": "Der Sale verschwindet heute Nacht",
     "BodyText2021": "heute ist der letzte Tag: FREE_AUG bringt Dir noch bis Mitternacht 30% auf New Ins und 43% auf alles andere, plus gratis Versand. Danach ist der Deal vorbei. Was bleibt: kostenloser Rückversand auf jede Bestellung, noch bis Ende August.",
+    "Content Card 1": "",
+    "Headline2111": "Bis zu -40% + gratis Versand + Rückversand geschenkt",
+    "HeaderImage2111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce11ca880088f0e694/original.jpg?1786443469",
+    "BodyText2111": "25% auf alle New Ins und 40% auf den Rest unseres Sortiments — dazu gratis Versand auf Deine Bestellung. Code LNS_UAG einfach im Warenkorb eingeben, fertig. Und weil wir's Dir leicht machen wollen: schenken wir Dir außerdem kostenlosen Rückversand, gültig bis Ende August.",
+    "Content Card 2": "",
+    "Headline2211": "Bis zu -43% — solange Dein Fund noch da ist",
+    "HeaderImage2211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce2f232d008a7b7a31/original.jpg?1786443470",
+    "BodyText2211": "heute legen wir nach: 25% auf New Ins und 43% auf alles andere, plus gratis Versand — mit dem Code FREE_SHP. Nur heute in dieser Höhe. Und nicht vergessen: der Rückversand ist jetzt ebenfalls kostenlos, noch bis Ende August.",
+    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign",
     "Abandoned Browse/Cart Campaign Email": "",
     "Subjectline1111": " jetzt bis zu 43% reduziert!",
     "Preheader1111": "Shoppe bis zu -43%",
@@ -634,8 +651,7 @@
     "Headline1911": "Nur noch 24 Stunden",
     "HeaderImage1911": "",
     "BodyText1911": "Letzte Chance, Deine Wishlist aufzustocken. Was jetzt gespeichert ist, zählt fürs finale Ranking – danach ist Einsendeschluss. Bis zu 1.000 € Gutschein warten auf die Top 3.",
-    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss.",
-    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign"
+    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss."
   },
   "Unknown": {
     "Greeting ": "",
@@ -734,6 +750,15 @@
     "Headline2011": "⏱️ LETZTE STUNDEN. LETZTE STÜCKE. ⏱️",
     "BodyText2011": "Der Sale verschwindet heute Nacht",
     "BodyText2021": "heute ist der letzte Tag: FREE_AUG bringt Dir noch bis Mitternacht 30% auf New Ins und 43% auf alles andere, plus gratis Versand. Danach ist der Deal vorbei. Was bleibt: kostenloser Rückversand auf jede Bestellung, noch bis Ende August.",
+    "Content Card 1": "",
+    "Headline2111": "Bis zu -40% + gratis Versand + Rückversand geschenkt",
+    "HeaderImage2111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce11ca880088f0e694/original.jpg?1786443469",
+    "BodyText2111": "25% auf alle New Ins und 40% auf den Rest unseres Sortiments — dazu gratis Versand auf Deine Bestellung. Code LNS_UAG einfach im Warenkorb eingeben, fertig. Und weil wir's Dir leicht machen wollen: schenken wir Dir außerdem kostenlosen Rückversand, gültig bis Ende August.",
+    "Content Card 2": "",
+    "Headline2211": "Bis zu -43% — solange Dein Fund noch da ist",
+    "HeaderImage2211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a7af6ce2f232d008a7b7a31/original.jpg?1786443470",
+    "BodyText2211": "heute legen wir nach: 25% auf New Ins und 43% auf alles andere, plus gratis Versand — mit dem Code FREE_SHP. Nur heute in dieser Höhe. Und nicht vergessen: der Rückversand ist jetzt ebenfalls kostenlos, noch bis Ende August.",
+    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign",
     "Abandoned Browse/Cart Campaign Email": "",
     "Subjectline1111": " jetzt bis zu 43% reduziert!",
     "Preheader1111": "Shoppe bis zu -43%",
@@ -953,8 +978,7 @@
     "Headline1911": "Nur noch 24 Stunden",
     "HeaderImage1911": "",
     "BodyText1911": "Letzte Chance, Deine Wishlist aufzustocken. Was jetzt gespeichert ist, zählt fürs finale Ranking – danach ist Einsendeschluss. Bis zu 1.000 € Gutschein warten auf die Top 3.",
-    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss.",
-    "": "https://shop_cms.intern.buddyandselly.com/de-de/wishlist-campaign"
+    "BodyText1912": "Letzte Chance, überhaupt noch einzusteigen. Account erstellen, Favoriten speichern – alles, was Du bis morgen sicherst, zählt fürs Ranking. Danach ist Schluss."
   },
   "": {
     "Greeting ": "",
@@ -1053,6 +1077,15 @@
     "Headline2011": "",
     "BodyText2011": "",
     "BodyText2021": "",
+    "Content Card 1": "",
+    "Headline2111": "",
+    "HeaderImage2111": "",
+    "BodyText2111": "",
+    "Content Card 2": "",
+    "Headline2211": "",
+    "HeaderImage2211": "",
+    "BodyText2211": "",
+    "": "",
     "Abandoned Browse/Cart Campaign Email": "",
     "Subjectline1111": "",
     "Preheader1111": "",
@@ -1272,7 +1305,6 @@
     "Headline1911": "",
     "HeaderImage1911": "",
     "BodyText1911": "",
-    "BodyText1912": "",
-    "": ""
+    "BodyText1912": ""
   }
 }
