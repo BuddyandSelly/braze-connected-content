@@ -169,10 +169,15 @@
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
     "CTA1311": "Zum neuen Drop",
     "Wishlist/Abandoned Browse + 30% on everything Email": "",
-    "Subjectline1411": "30% auf ALLES",
+    "Subjectline1411": "30% auf",
     "BodyText1414": "30% günstiger bestellen.",
-    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1411": "30% reduziert shoppen"
+    "BodyText1431": "*Der 30%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1411": "30% reduziert shoppen",
+    "Wishlist/Abandoned Browse + 25% on everything Email": "",
+    "Subjectline1511": "25% auf",
+    "BodyText1514": "25% günstiger bestellen.",
+    "BodyText1531": "*Der 25%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1511": "25% reduziert shoppen"
   },
   "Male ": {
     "Abandoned Browse Campaign Email": "",
@@ -344,10 +349,15 @@
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
     "CTA1311": "Zum neuen Drop",
     "Wishlist/Abandoned Browse + 30% on everything Email": "",
-    "Subjectline1411": "30% auf ALLES",
+    "Subjectline1411": "30% auf",
     "BodyText1414": "30% günstiger bestellen.",
-    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1411": "30% reduziert shoppen"
+    "BodyText1431": "*Der 30%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1411": "30% reduziert shoppen",
+    "Wishlist/Abandoned Browse + 25% on everything Email": "",
+    "Subjectline1511": "25% auf",
+    "BodyText1514": "25% günstiger bestellen.",
+    "BodyText1531": "*Der 25%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1511": "25% reduziert shoppen"
   },
   "Unknown": {
     "Abandoned Browse Campaign Email": "",
@@ -519,9 +529,14 @@
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
     "CTA1311": "Zum neuen Drop",
     "Wishlist/Abandoned Browse + 30% on everything Email": "",
-    "Subjectline1411": "30% auf ALLES",
+    "Subjectline1411": "30% auf",
     "BodyText1414": "30% günstiger bestellen.",
-    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1411": "30% reduziert shoppen"
+    "BodyText1431": "*Der 30%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1411": "30% reduziert shoppen",
+    "Wishlist/Abandoned Browse + 25% on everything Email": "",
+    "Subjectline1511": "25% auf",
+    "BodyText1514": "25% günstiger bestellen.",
+    "BodyText1531": "*Der 25%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
+    "Headline1511": "25% reduziert shoppen"
   }
 }
