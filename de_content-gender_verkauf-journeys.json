@@ -54,7 +54,7 @@
     "BodyText412": "von",
     "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
     "BodyText414": "versandkostenfrei bestellen.",
-    "code": "{% promotion('2buyer_FS') %}",
+    "code": "FREE SHIPPING CODE",
     "CTA411": "Zur Wunschliste",
     "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "CTA421": "Jetzt shoppen",
@@ -167,7 +167,11 @@
     "HeaderImage1313": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/685912a6e2a8da00749956a8/original.png?1750667942",
     "Headline1311": "Neue Stücke, streng limitiert",
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
-    "CTA1311": "Zum neuen Drop"
+    "CTA1311": "Zum neuen Drop",
+    "Wishlist/Abandoned Browse + 30% on everything Email": "",
+    "Subjectline1411": "30% auf ALLES",
+    "BodyText1414": "30% günstiger bestellen.",
+    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   },
   "Male ": {
     "Abandoned Browse Campaign Email": "",
@@ -224,7 +228,7 @@
     "BodyText412": "von",
     "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
     "BodyText414": "versandkostenfrei bestellen.",
-    "code": "{% promotion('2buyer_FS') %}",
+    "code": "FREE SHIPPING CODE",
     "CTA411": "Zur Wunschliste",
     "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "CTA421": "Jetzt shoppen",
@@ -337,7 +341,11 @@
     "HeaderImage1313": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/685912a6e2a8da00749956a8/original.png?1750667942",
     "Headline1311": "Neue Stücke, streng limitiert",
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
-    "CTA1311": "Zum neuen Drop"
+    "CTA1311": "Zum neuen Drop",
+    "Wishlist/Abandoned Browse + 30% on everything Email": "",
+    "Subjectline1411": "30% auf ALLES",
+    "BodyText1414": "30% günstiger bestellen.",
+    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   },
   "Unknown": {
     "Abandoned Browse Campaign Email": "",
@@ -394,7 +402,7 @@
     "BodyText412": "von",
     "BodyText413": "auf Deiner Wunschliste kannst Du jetzt",
     "BodyText414": "versandkostenfrei bestellen.",
-    "code": "{% promotion('2buyer_FS') %}",
+    "code": "FREE SHIPPING CODE",
     "CTA411": "Zur Wunschliste",
     "CTA411Link": "https://www.buddyandselly.com/de-de/wunschliste?lid=qf95ftvtrksi&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "CTA421": "Jetzt shoppen",
@@ -507,6 +515,10 @@
     "HeaderImage1313": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/685912a6e2a8da00749956a8/original.png?1750667942",
     "Headline1311": "Neue Stücke, streng limitiert",
     "BodyText1311": "dieser Drop ist klein, aber fein: eine neue Auswahl an Unikaten ist gerade online gegangen. Wie immer bei uns: jedes Stück gibt's nur einmal, also schau am besten gleich vorbei, bevor es weg ist.",
-    "CTA1311": "Zum neuen Drop"
+    "CTA1311": "Zum neuen Drop",
+    "Wishlist/Abandoned Browse + 30% on everything Email": "",
+    "Subjectline1411": "30% auf ALLES",
+    "BodyText1414": "30% günstiger bestellen.",
+    "BodyText1431": "*Der 30%-Gutschein ist nur 3 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein."
   }
 }
