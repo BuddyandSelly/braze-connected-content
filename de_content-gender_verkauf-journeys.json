@@ -121,7 +121,7 @@
     "Reactivation Track 1 (Quiet High Value) Email 3 Trust": "",
     "Subjectline711": "{{${first_name} | default: 'Fashion Lover'}}, gibt es noch offene Fragen?",
     "Preheader711": "Jedes Stück von Expert geprüft",
-    "Headline711": "Geprüft. Einzigartig. Nachhaltig.",
+    "Headline711": "So geht's",
     "BodyText711": "der Kauf eines besonderen Pre-Owned-Luxusstücks sollte sich genauso sicher anfühlen wie der Kauf eines neuen Produkts. Deshalb kurz zusammengefasst, worauf Du Dich bei uns verlassen kannst:",
     "Bulletpoint711": "Authentifiziert",
     "Bulletpoint712": "Jedes Stück wird vor der Aufnahme in unseren Shop von unseren Expert:innen sorgfältig authentifiziert.",
@@ -212,7 +212,16 @@
     "Subjectline1711": "15% auf",
     "BodyText1714": "15% günstiger bestellen.",
     "BodyText1731": "*Der 15%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1711": "15% reduziert shoppen"
+    "Headline1711": "15% reduziert shoppen",
+    "Price Reduction Email": "",
+    "Subjectline1911": "Piece.",
+    "Preheader1911": "Nicht jeder bekommt eine zweite Chance zum besseren Preis.",
+    "Headline1911": "Zweite Chance:",
+    "Headline1912": "zum besseren Preis",
+    "BodyText1911": "wir haben gute Neuigkeiten: Der Preis von Deinem",
+    "BodyText1912": "hat sich reduziert. Einzelstücke wie dieses bleiben nicht lange. Einmal weg, für immer weg.",
+    "CTA1911": "Gönn es Dir",
+    "TnCs1911": "*Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   },
   "Male ": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -336,7 +345,7 @@
     "Reactivation Track 1 (Quiet High Value) Email 3 Trust": "",
     "Subjectline711": "{{${first_name} | default: 'Fashion Lover'}}, gibt es noch offene Fragen?",
     "Preheader711": "Jedes Stück von Expert geprüft",
-    "Headline711": "Geprüft. Einzigartig. Nachhaltig.",
+    "Headline711": "So geht's",
     "BodyText711": "der Kauf eines besonderen Pre-Owned-Luxusstücks sollte sich genauso sicher anfühlen wie der Kauf eines neuen Produkts. Deshalb kurz zusammengefasst, worauf Du Dich bei uns verlassen kannst:",
     "Bulletpoint711": "Authentifiziert",
     "Bulletpoint712": "Jedes Stück wird vor der Aufnahme in unseren Shop von unseren Expert:innen sorgfältig authentifiziert.",
@@ -427,7 +436,16 @@
     "Subjectline1711": "15% auf",
     "BodyText1714": "15% günstiger bestellen.",
     "BodyText1731": "*Der 15%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1711": "15% reduziert shoppen"
+    "Headline1711": "15% reduziert shoppen",
+    "Price Reduction Email": "",
+    "Subjectline1911": "Piece.",
+    "Preheader1911": "Nicht jeder bekommt eine zweite Chance zum besseren Preis.",
+    "Headline1911": "Zweite Chance:",
+    "Headline1912": "zum besseren Preis",
+    "BodyText1911": "wir haben gute Neuigkeiten: Der Preis von Deinem",
+    "BodyText1912": "hat sich reduziert. Einzelstücke wie dieses bleiben nicht lange. Einmal weg, für immer weg.",
+    "CTA1911": "Gönn es Dir",
+    "TnCs1911": "*Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -551,7 +569,7 @@
     "Reactivation Track 1 (Quiet High Value) Email 3 Trust": "",
     "Subjectline711": "{{${first_name} | default: 'Fashion Lover'}}, gibt es noch offene Fragen?",
     "Preheader711": "Jedes Stück von Expert geprüft",
-    "Headline711": "Geprüft. Einzigartig. Nachhaltig.",
+    "Headline711": "So geht's",
     "BodyText711": "der Kauf eines besonderen Pre-Owned-Luxusstücks sollte sich genauso sicher anfühlen wie der Kauf eines neuen Produkts. Deshalb kurz zusammengefasst, worauf Du Dich bei uns verlassen kannst:",
     "Bulletpoint711": "Authentifiziert",
     "Bulletpoint712": "Jedes Stück wird vor der Aufnahme in unseren Shop von unseren Expert:innen sorgfältig authentifiziert.",
@@ -642,6 +660,15 @@
     "Subjectline1711": "15% auf",
     "BodyText1714": "15% günstiger bestellen.",
     "BodyText1731": "*Der 15%-Gutschein ist nur 2 Tage ab Versand dieser Email gültig. Eine Kombination mit anderen Aktionen ist ausgeschlossen. Diese Email ist keine Garantie auf Verfügbarkeit des Produkts. Produkte können während des Versands der Email verkauft werden oder bereits Warenkorb von einem anderen Kunden reserviert sein.",
-    "Headline1711": "15% reduziert shoppen"
+    "Headline1711": "15% reduziert shoppen",
+    "Price Reduction Email": "",
+    "Subjectline1911": "Piece.",
+    "Preheader1911": "Nicht jeder bekommt eine zweite Chance zum besseren Preis.",
+    "Headline1911": "Zweite Chance:",
+    "Headline1912": "zum besseren Preis",
+    "BodyText1911": "wir haben gute Neuigkeiten: Der Preis von Deinem",
+    "BodyText1912": "hat sich reduziert. Einzelstücke wie dieses bleiben nicht lange. Einmal weg, für immer weg.",
+    "CTA1911": "Gönn es Dir",
+    "TnCs1911": "*Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   }
 }
