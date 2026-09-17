@@ -166,7 +166,7 @@
     "Subjectline1011": "Dein Code läuft bald ab, {{${first_name} | default: 'Fashion Lover'}}",
     "Preheader1011": "Noch ein paar Tage 31% Rabatt auf alles",
     "Headline1011": "Jetzt zuschlagen, Dein Code ist nur wenige Tage gültig.",
-    "BodyText1011": "Dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
+    "BodyText1011": "dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
     "Headline1021": "Suchst Du gerade nach etwas ganz Bestimmtem? ",
     "BodyText1021": "Probier unsere neue",
     "BodyText1022": "Bildsuche",
@@ -223,7 +223,7 @@
     "CTA1911": "Gönn es Dir",
     "TnCs1911": "*Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   },
-  "Male ": {
+  "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
@@ -390,7 +390,7 @@
     "Subjectline1011": "Dein Code läuft bald ab, {{${first_name} | default: 'Fashion Lover'}}",
     "Preheader1011": "Noch ein paar Tage 31% Rabatt auf alles",
     "Headline1011": "Jetzt zuschlagen, Dein Code ist nur wenige Tage gültig.",
-    "BodyText1011": "Dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
+    "BodyText1011": "dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
     "Headline1021": "Suchst Du gerade nach etwas ganz Bestimmtem? ",
     "BodyText1021": "Probier unsere neue",
     "BodyText1022": "Bildsuche",
@@ -614,7 +614,7 @@
     "Subjectline1011": "Dein Code läuft bald ab, {{${first_name} | default: 'Fashion Lover'}}",
     "Preheader1011": "Noch ein paar Tage 31% Rabatt auf alles",
     "Headline1011": "Jetzt zuschlagen, Dein Code ist nur wenige Tage gültig.",
-    "BodyText1011": "Dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
+    "BodyText1011": "dein 31%-Rabatt läuft in ein paar Tagen ab. Damit es sich lohnt, gibt's diese Woche noch etwas mehr Rabatt obendrauf.",
     "Headline1021": "Suchst Du gerade nach etwas ganz Bestimmtem? ",
     "BodyText1021": "Probier unsere neue",
     "BodyText1022": "Bildsuche",
