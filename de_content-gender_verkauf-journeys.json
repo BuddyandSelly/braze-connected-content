@@ -228,7 +228,7 @@
     "HeaderImage2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aacf709ac334c008cc74e68/original.jpg?1789720329",
     "Headline2011": "Platz schaffen für Dein neues Lieblingsstück",
     "BodyText2011": "dein neues Teil ist unterwegs zu Dir – vielleicht wird's Zeit, dass ein altes Platz macht? Bei uns wird aus ausgemistetem Kleiderschrank kein Umweg zur Altkleidertonne, sondern Geld, ein bisschen Übersicht und ein gutes Gefühl.",
-    "Headline2021": "So einfach geht's – wähl, was zu Dir passt:",
+    "Headline2021": "So einfach geht's",
     "Icon2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b2e232b00869b9a62/original.png?1784549450",
     "Bulletpoint2011": "Formular ausfüllen, kostenloses Versandlabel erhalten",
     "Icon2021": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b9cc10700880e12a2/original.png?1784549450",
@@ -237,7 +237,7 @@
     "Bulletpoint2031": "Du bekommst Dein Geldangebot – gefällt's Dir nicht, schicken wir alles kostenlos zurück",
     "CTA2011": "Jetzt einsenden",
     "CTA2011Link": "https://www.buddyandselly.com/de-de/ankauf/einsendeformular/artikel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Headline2031": "Einsenden & am Gewinnspiel teilnehmen"
+    "Headline2031": "Schick mindestens 4 Teile ein und sichere Dir die Chance auf unser monatliches Gewinnspiel\n"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -468,7 +468,7 @@
     "HeaderImage2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aacf709ac334c008cc74e68/original.jpg?1789720329",
     "Headline2011": "Platz schaffen für Dein neues Lieblingsstück",
     "BodyText2011": "dein neues Teil ist unterwegs zu Dir – vielleicht wird's Zeit, dass ein altes Platz macht? Bei uns wird aus ausgemistetem Kleiderschrank kein Umweg zur Altkleidertonne, sondern Geld, ein bisschen Übersicht und ein gutes Gefühl.",
-    "Headline2021": "So einfach geht's – wähl, was zu Dir passt:",
+    "Headline2021": "So einfach geht's",
     "Icon2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b2e232b00869b9a62/original.png?1784549450",
     "Bulletpoint2011": "Formular ausfüllen, kostenloses Versandlabel erhalten",
     "Icon2021": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b9cc10700880e12a2/original.png?1784549450",
@@ -477,7 +477,7 @@
     "Bulletpoint2031": "Du bekommst Dein Geldangebot – gefällt's Dir nicht, schicken wir alles kostenlos zurück",
     "CTA2011": "Jetzt einsenden",
     "CTA2011Link": "https://www.buddyandselly.com/de-de/ankauf/einsendeformular/artikel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Headline2031": "Einsenden & am Gewinnspiel teilnehmen"
+    "Headline2031": "Schick mindestens 4 Teile ein und sichere Dir die Chance auf unser monatliches Gewinnspiel\n"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -708,7 +708,7 @@
     "HeaderImage2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aacf709ac334c008cc74e68/original.jpg?1789720329",
     "Headline2011": "Platz schaffen für Dein neues Lieblingsstück",
     "BodyText2011": "dein neues Teil ist unterwegs zu Dir – vielleicht wird's Zeit, dass ein altes Platz macht? Bei uns wird aus ausgemistetem Kleiderschrank kein Umweg zur Altkleidertonne, sondern Geld, ein bisschen Übersicht und ein gutes Gefühl.",
-    "Headline2021": "So einfach geht's – wähl, was zu Dir passt:",
+    "Headline2021": "So einfach geht's",
     "Icon2011": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b2e232b00869b9a62/original.png?1784549450",
     "Bulletpoint2011": "Formular ausfüllen, kostenloses Versandlabel erhalten",
     "Icon2021": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a5e104b9cc10700880e12a2/original.png?1784549450",
@@ -717,6 +717,6 @@
     "Bulletpoint2031": "Du bekommst Dein Geldangebot – gefällt's Dir nicht, schicken wir alles kostenlos zurück",
     "CTA2011": "Jetzt einsenden",
     "CTA2011Link": "https://www.buddyandselly.com/de-de/ankauf/einsendeformular/artikel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm",
-    "Headline2031": "Einsenden & am Gewinnspiel teilnehmen"
+    "Headline2031": "Schick mindestens 4 Teile ein und sichere Dir die Chance auf unser monatliches Gewinnspiel\n"
   }
 }
