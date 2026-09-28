@@ -52,7 +52,12 @@
     "TnCs212": "Kundenkonto.",
     "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
-    "BodyText241": "Mitglied seit"
+    "BodyText241": "Mitglied seit",
+    "CTA211": "Bild für Deine Story",
+    "CTA211Text": "Speichere Dein Bild, teile es in Deiner Instagram Story und markiere @buddyandselly.",
+    "CTA211silver": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555b0620c0088a597c6/original.png?1790592341",
+    "CTA211gold": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555a2897600883b5551/original.png?1790592341",
+    "CTA211platinum": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555388af1008b6de559/original.png?1790592341"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -107,7 +112,12 @@
     "TnCs212": "Kundenkonto.",
     "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
-    "BodyText241": "Mitglied seit"
+    "BodyText241": "Mitglied seit",
+    "CTA211": "Bild für Deine Story",
+    "CTA211Text": "Speichere Dein Bild, teile es in Deiner Instagram Story und markiere @buddyandselly.",
+    "CTA211silver": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555b0620c0088a597c6/original.png?1790592341",
+    "CTA211gold": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555a2897600883b5551/original.png?1790592341",
+    "CTA211platinum": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555388af1008b6de559/original.png?1790592341"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -162,6 +172,11 @@
     "TnCs212": "Kundenkonto.",
     "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
-    "BodyText241": "Mitglied seit"
+    "BodyText241": "Mitglied seit",
+    "CTA211": "Bild für Deine Story",
+    "CTA211Text": "Speichere Dein Bild, teile es in Deiner Instagram Story und markiere @buddyandselly.",
+    "CTA211silver": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555b0620c0088a597c6/original.png?1790592341",
+    "CTA211gold": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555a2897600883b5551/original.png?1790592341",
+    "CTA211platinum": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6aba4555388af1008b6de559/original.png?1790592341"
   }
 }
