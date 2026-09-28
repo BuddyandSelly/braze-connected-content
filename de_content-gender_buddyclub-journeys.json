@@ -45,10 +45,13 @@
     "greetings211": "Glückwunsch {{${first_name} | default: 'Fashion Lover'}},",
     "Headline221": "Du bist jetzt",
     "Bodytext211": "SILBER",
-    "Bodytext221": "Dein erstes Level ist freigeschaltet.",
-    "Bodytext231": "Ab sofort gehörst Du offiziell zum BuddyClub.",
+    "Bodytext221": "Dein neues Level ist ab sofort aktiv.",
+    "Bodytext231": "Und mit ihm alles, was dazugehört.",
     "Headline231": "Deine Vorteile",
-    "TnCs211": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
+    "TnCs211": "Alle Vorteile aktivierst Du ganz einfach in Deinem",
+    "TnCs212": "Kundenkonto.",
+    "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
     "BodyText241": "Mitglied seit"
   },
   "Male": {
@@ -97,10 +100,13 @@
     "greetings211": "Glückwunsch {{${first_name} | default: 'Fashion Lover'}},",
     "Headline221": "Du bist jetzt",
     "Bodytext211": "SILBER",
-    "Bodytext221": "Dein erstes Level ist freigeschaltet.",
-    "Bodytext231": "Ab sofort gehörst Du offiziell zum BuddyClub.",
+    "Bodytext221": "Dein neues Level ist ab sofort aktiv.",
+    "Bodytext231": "Und mit ihm alles, was dazugehört.",
     "Headline231": "Deine Vorteile",
-    "TnCs211": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
+    "TnCs211": "Alle Vorteile aktivierst Du ganz einfach in Deinem",
+    "TnCs212": "Kundenkonto.",
+    "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
     "BodyText241": "Mitglied seit"
   },
   "Unknown": {
@@ -149,10 +155,13 @@
     "greetings211": "Glückwunsch {{${first_name} | default: 'Fashion Lover'}},",
     "Headline221": "Du bist jetzt",
     "Bodytext211": "SILBER",
-    "Bodytext221": "Dein erstes Level ist freigeschaltet.",
-    "Bodytext231": "Ab sofort gehörst Du offiziell zum BuddyClub.",
+    "Bodytext221": "Dein neues Level ist ab sofort aktiv.",
+    "Bodytext231": "Und mit ihm alles, was dazugehört.",
     "Headline231": "Deine Vorteile",
-    "TnCs211": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
+    "TnCs211": "Alle Vorteile aktivierst Du ganz einfach in Deinem",
+    "TnCs212": "Kundenkonto.",
+    "TnCs212Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs213": "Dein Status gilt 12 Monate rollierend. Je nachdem, wie Du in dieser Zeit bei uns shoppst, entwickelt sich Dein Level weiter.",
     "BodyText241": "Mitglied seit"
   }
 }
