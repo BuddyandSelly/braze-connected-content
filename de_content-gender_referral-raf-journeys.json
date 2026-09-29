@@ -23,7 +23,16 @@
     "Bodytext111": "Bis zu 3 erfolgreiche Empfehlungen pro Jahr, bis zu 3x 40% für Dich*",
     "TnCs111": "*Der 30%-Rabatt gilt nur für Neukund:innen und nur für die erste Bestellung. Pro Werber:in sind max. 3 Einlösungen pro Jahr möglich. Der Werber-Gutschein (40% auf alles) wird nach Ablauf der 30-tägigen Rückgabefrist der geworbenen Person per E-Mail versandt und im Kundenkonto hinterlegt. Nicht kombinierbar mit anderen Aktionen oder Sales. Keine Barauszahlung. Eigenwerbung ist untersagt. Es gelten die vollständigen Teilnahmebedingungen. Bis zu 3 Empfehlungen, bis zu 3x -40%. Alle weiteren Informationen findest Du in unseren",
     "TnCs112": "Aktionsbedingungen.",
-    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm"
+    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
+    "RAF Reminder Email ": "",
+    "Subjectline211": "Hol Dir 40% auf alles ",
+    "Preheader211": "Freunde empfehlen und mit 40% Rabatt shoppen",
+    "HeaderImage211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cd9f67f70cb0086323c2e/original.jpg?1783421429",
+    "RAF Reminder Reminder Email ": "",
+    "Subjectline311": "Dein Code wartet noch 🥂",
+    "Preheader311": "Ein Klick per WhatsApp und Ihr spart beide.",
+    "Headline311": "Du kennst bestimmt jemanden.",
+    "Bodytex311": "vielleicht die Freundin, die ständig nach Deiner Tasche fragt. Oder den Kollegen, der schon lange mit einer Designeruhr liebäugelt. Mit Deinem Code sparen sie 30% auf ihre erste Bestellung*, und Du erhältst für jede erfolgreiche Empfehlung 40% auf alles*."
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -49,7 +58,16 @@
     "Bodytext111": "Bis zu 3 erfolgreiche Empfehlungen pro Jahr, bis zu 3x 40% für Dich*",
     "TnCs111": "*Der 30%-Rabatt gilt nur für Neukund:innen und nur für die erste Bestellung. Pro Werber:in sind max. 3 Einlösungen pro Jahr möglich. Der Werber-Gutschein (40% auf alles) wird nach Ablauf der 30-tägigen Rückgabefrist der geworbenen Person per E-Mail versandt und im Kundenkonto hinterlegt. Nicht kombinierbar mit anderen Aktionen oder Sales. Keine Barauszahlung. Eigenwerbung ist untersagt. Es gelten die vollständigen Teilnahmebedingungen. Bis zu 3 Empfehlungen, bis zu 3x -40%. Alle weiteren Informationen findest Du in unseren",
     "TnCs112": "Aktionsbedingungen.",
-    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm"
+    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
+    "RAF Reminder Email ": "",
+    "Subjectline211": "Hol Dir 40% auf alles ",
+    "Preheader211": "Freunde empfehlen und mit 40% Rabatt shoppen",
+    "HeaderImage211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cd9f67f70cb0086323c2e/original.jpg?1783421429",
+    "RAF Reminder Reminder Email ": "",
+    "Subjectline311": "Dein Code wartet noch 🥂",
+    "Preheader311": "Ein Klick per WhatsApp und Ihr spart beide.",
+    "Headline311": "Du kennst bestimmt jemanden.",
+    "Bodytex311": "vielleicht die Freundin, die ständig nach Deiner Tasche fragt. Oder den Kollegen, der schon lange mit einer Designeruhr liebäugelt. Mit Deinem Code sparen sie 30% auf ihre erste Bestellung*, und Du erhältst für jede erfolgreiche Empfehlung 40% auf alles*."
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -75,6 +93,15 @@
     "Bodytext111": "Bis zu 3 erfolgreiche Empfehlungen pro Jahr, bis zu 3x 40% für Dich*",
     "TnCs111": "*Der 30%-Rabatt gilt nur für Neukund:innen und nur für die erste Bestellung. Pro Werber:in sind max. 3 Einlösungen pro Jahr möglich. Der Werber-Gutschein (40% auf alles) wird nach Ablauf der 30-tägigen Rückgabefrist der geworbenen Person per E-Mail versandt und im Kundenkonto hinterlegt. Nicht kombinierbar mit anderen Aktionen oder Sales. Keine Barauszahlung. Eigenwerbung ist untersagt. Es gelten die vollständigen Teilnahmebedingungen. Bis zu 3 Empfehlungen, bis zu 3x -40%. Alle weiteren Informationen findest Du in unseren",
     "TnCs112": "Aktionsbedingungen.",
-    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm"
+    "TnCs112Link": "https://www.buddyandselly.com/de-de/referral-aktion?lid=hoi49yg0kf7b&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
+    "RAF Reminder Email ": "",
+    "Subjectline211": "Hol Dir 40% auf alles ",
+    "Preheader211": "Freunde empfehlen und mit 40% Rabatt shoppen",
+    "HeaderImage211": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cd9f67f70cb0086323c2e/original.jpg?1783421429",
+    "RAF Reminder Reminder Email ": "",
+    "Subjectline311": "Dein Code wartet noch 🥂",
+    "Preheader311": "Ein Klick per WhatsApp und Ihr spart beide.",
+    "Headline311": "Du kennst bestimmt jemanden.",
+    "Bodytex311": "vielleicht die Freundin, die ständig nach Deiner Tasche fragt. Oder den Kollegen, der schon lange mit einer Designeruhr liebäugelt. Mit Deinem Code sparen sie 30% auf ihre erste Bestellung*, und Du erhältst für jede erfolgreiche Empfehlung 40% auf alles*."
   }
 }
