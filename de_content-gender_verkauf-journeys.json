@@ -244,7 +244,7 @@
     "Preheader2111": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2111": "Fashion Auswahl für {{${first_name} | default: 'Dich'}}",
     "BodyText2111": "wir haben eine kleine Auswahl unserer neuesten Highlights für Dich zusammengestellt. Jedes Stück wurde von unseren Expert auf Echtheit geprüft und täglich laden wir Hunderte neue Artikel hoch.",
-    "CTA2111": "Wunschliste ansehen",
+    "CTA2111": "Auswahl ansehen",
     "CTA2111Link": "https://www.buddyandselly.com/de-de/wunschliste?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2121": "Nie wieder suchen, einfach finden lassen",
     "BodyText2121": "Übrigens: Falls Du nach einem ganz bestimmten Stück oder einer bestimmten Marke suchst, richte Dir einfach einen Suchauftrag ein",
@@ -259,10 +259,12 @@
     "BodyText2141": "Meinen Suchagent einrichten",
     "BodyText2141Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "1st buyer Retention 2-4 months Email 2 find your favorite piece for you": "",
-    "Subjectline2211": "So findest Du Dein neues Lieblingsteil",
+    "Subjectline2211": "Dein neues Lieblingsteil schnell gefunden",
     "Preheader2211": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2211": "Designer Mode smart geshoppt ",
-    "BodyText2211": "Speichere Deine Lieblingsartikel mit dem kleinen Herz am Produkt in Deiner Wishlist. Wenn ein Artikel von Deiner Wunschliste verkauft ist, kannst Du das am Ende Deiner Wunschliste sehen und Dich benachrichtigen lassen, sobald der zurückgegeben wurde und wieder im Shop verfügbar ist. ",
+    "BodyText2211": "Speichere Deine Lieblingsartikel mit dem kleinen Herz am Produkt in Deiner Wishlist. Wenn ein Artikel von Deiner Wunschliste verkauft ist, kannst Du das am Ende Deiner Wunschliste sehen und Dich benachrichtigen lassen, sobald der Artikel zurückgegeben wurde und wieder im Shop verfügbar ist. ",
+    "CTA2211": "Wunschliste ansehen",
+    "BodyText2221": "Wusstest Du, dass wir über Hunderte neue Teile täglich hochladen?",
     "1st buyer Retention 2-4 months Email 3 coupon": "",
     "Subjectline2311": "Wir schenken Dir 30% auf alles",
     "Preheader2311": "Jetzt Deine Lieblingsbrand  ",
@@ -277,7 +279,8 @@
     "CTA2311Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Dein Code ist 30 Tage gültig.",
     "BodyText2331": "Fehlt Dein Lieblingsstück?",
-    "BodyText2341": "Das könnte Dir gefallen"
+    "BodyText2341": "Das könnte Dir gefallen",
+    "Headline2221": "Wie wäre es mit?"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -524,7 +527,7 @@
     "Preheader2111": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2111": "Fashion Auswahl für {{${first_name} | default: 'Dich'}}",
     "BodyText2111": "wir haben eine kleine Auswahl unserer neuesten Highlights für Dich zusammengestellt. Jedes Stück wurde von unseren Expert auf Echtheit geprüft und täglich laden wir Hunderte neue Artikel hoch.",
-    "CTA2111": "Wunschliste ansehen",
+    "CTA2111": "Auswahl ansehen",
     "CTA2111Link": "https://www.buddyandselly.com/de-de/wunschliste?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2121": "Nie wieder suchen, einfach finden lassen",
     "BodyText2121": "Übrigens: Falls Du nach einem ganz bestimmten Stück oder einer bestimmten Marke suchst, richte Dir einfach einen Suchauftrag ein",
@@ -539,10 +542,12 @@
     "BodyText2141": "Meinen Suchagent einrichten",
     "BodyText2141Link": "https://www.buddyandselly.com/de-de/herren/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "1st buyer Retention 2-4 months Email 2 find your favorite piece for you": "",
-    "Subjectline2211": "So findest Du Dein neues Lieblingsteil",
+    "Subjectline2211": "Dein neues Lieblingsteil schnell gefunden",
     "Preheader2211": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2211": "Designer Mode smart geshoppt ",
     "BodyText2211": "Speichere Deine Lieblingsartikel mit dem kleinen Herz in Deiner Wishlist. Wenn ein Artikel von Deiner Wunschliste verkauft ist, kannst Du das am Ende Deiner Wunschliste sehen und Dich benachrichtigen lassen, sobald der zurückgegeben wurde und wieder im Shop verfügbar ist. ",
+    "CTA2211": "Wunschliste ansehen",
+    "BodyText2221": "Wusstest Du, dass wir über Hunderte neue Teile täglich hochladen?",
     "1st buyer Retention 2-4 months Email 3 coupon": "",
     "Subjectline2311": "Wir schenken Dir 30% auf alles",
     "Preheader2311": "Jetzt Deine Lieblingsbrand shoppen ",
@@ -557,7 +562,8 @@
     "CTA2311Link": "https://www.buddyandselly.com/de-de/herren/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Dein Code ist 30 Tage gültig.",
     "BodyText2331": "Fehlt Dein Lieblingsstück?",
-    "BodyText2341": "Das könnte Dir gefallen"
+    "BodyText2341": "Das könnte Dir gefallen",
+    "Headline2221": "Wie wäre es mit?"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -804,7 +810,7 @@
     "Preheader2111": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2111": "Fashion Auswahl für {{${first_name} | default: 'Dich'}}",
     "BodyText2111": "wir haben eine kleine Auswahl unserer neuesten Highlights für Dich zusammengestellt. Jedes Stück wurde von unseren Expert auf Echtheit geprüft und täglich laden wir Hunderte neue Artikel hoch.",
-    "CTA2111": "Wunschliste ansehen",
+    "CTA2111": "Auswahl ansehen",
     "CTA2111Link": "https://www.buddyandselly.com/de-de/wunschliste?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2121": "Nie wieder suchen, einfach finden lassen",
     "BodyText2121": "Übrigens: Falls Du nach einem ganz bestimmten Stück oder einer bestimmten Marke suchst, richte Dir einfach einen Suchauftrag ein",
@@ -819,10 +825,12 @@
     "BodyText2141": "Meinen Suchagent einrichten",
     "BodyText2141Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "1st buyer Retention 2-4 months Email 2 find your favorite piece for you": "",
-    "Subjectline2211": "So findest Du Dein neues Lieblingsteil",
+    "Subjectline2211": "Dein neues Lieblingsteil schnell gefunden",
     "Preheader2211": "Wir helfen Dir Dein neues Lieblingsstück zu finden",
     "Headline2211": "Designer Mode smart geshoppt ",
     "BodyText2211": "Speichere Deine Lieblingsartikel mit dem kleinen Herz in Deiner Wishlist. Wenn ein Artikel von Deiner Wunschliste verkauft ist, kannst Du das am Ende Deiner Wunschliste sehen und Dich benachrichtigen lassen, sobald der zurückgegeben wurde und wieder im Shop verfügbar ist. ",
+    "CTA2211": "Wunschliste ansehen",
+    "BodyText2221": "Wusstest Du, dass wir über Hunderte neue Teile täglich hochladen?",
     "1st buyer Retention 2-4 months Email 3 coupon": "",
     "Subjectline2311": "Wir schenken Dir 30% auf alles",
     "Preheader2311": "Jetzt Deine Lieblingsbrand shoppen: ",
@@ -837,6 +845,7 @@
     "CTA2311Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Dein Code ist 30 Tage gültig.",
     "BodyText2331": "Fehlt Dein Lieblingsstück?",
-    "BodyText2341": "Das könnte Dir gefallen"
+    "BodyText2341": "Das könnte Dir gefallen",
+    "Headline2221": "Wie wäre es mit?"
   }
 }
