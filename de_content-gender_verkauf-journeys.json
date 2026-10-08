@@ -281,9 +281,10 @@
     "Headline2321": "Was hältst Du davon?",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Jetzt entdecken.",
     "BodyText2331": "Das könnte Dir gefallen",
+    "TnCs2311": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
     "1st buyer Retention 2-4 months Email 4 coupon reminder": "",
     "Subjectline2411": "Erinnerung: 30% und versandkostenfrei auf Deine 2. Bestellung",
-    "Preheader2411": "Dein Coupon läuft bald ab",
+    "Preheader2411": "Bei uns kannst auch retournieren!",
     "HeaderImage2411Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a969503217829008ad05386/original.jpg?1788253442",
     "HeaderImage2411Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a96950275deb20088c23cad/original.jpg?1788253441",
     "Headline2411": "30% auf alles sichern",
@@ -295,7 +296,8 @@
     "CTA2411Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2421": "Retoure? Na klar!",
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
-    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück"
+    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
+    "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. "
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -579,9 +581,10 @@
     "Headline2321": "Was hältst Du davon?",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Jetzt entdecken.",
     "BodyText2331": "Das könnte Dir gefallen",
+    "TnCs2311": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
     "1st buyer Retention 2-4 months Email 4 coupon reminder": "",
     "Subjectline2411": "Erinnerung: 30% und versandkostenfrei auf Deine 2. Bestellung",
-    "Preheader2411": "Dein Coupon läuft bald ab",
+    "Preheader2411": "Bei uns kannst auch retournieren!",
     "HeaderImage2411Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a969503217829008ad05386/original.jpg?1788253443",
     "HeaderImage2411Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a96950275deb20088c23cad/original.jpg?1788253442",
     "Headline2411": "30% sichern und losshoppen",
@@ -593,7 +596,8 @@
     "CTA2411Link": "https://www.buddyandselly.com/de-de/herren/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2421": "Retoure? Na klar!",
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
-    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück"
+    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
+    "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. "
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -877,9 +881,10 @@
     "Headline2321": "Was hältst Du davon?",
     "BodyText2321": "Neue Teile sind gerade reingekommen. Jetzt entdecken.",
     "BodyText2331": "Das könnte Dir gefallen",
+    "TnCs2311": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
     "1st buyer Retention 2-4 months Email 4 coupon reminder": "",
     "Subjectline2411": "Erinnerung: 30% und versandkostenfrei auf Deine 2. Bestellung",
-    "Preheader2411": "Dein Coupon läuft bald ab",
+    "Preheader2411": "Bei uns kannst auch retournieren!",
     "HeaderImage2411Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a969503217829008ad05386/original.jpg?1788253444",
     "HeaderImage2411Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a96950275deb20088c23cad/original.jpg?1788253443",
     "Headline2411": "30% sichern und losshoppen",
@@ -891,6 +896,7 @@
     "CTA2411Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Headline2421": "Retoure? Na klar!",
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
-    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück"
+    "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
+    "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. "
   }
 }
