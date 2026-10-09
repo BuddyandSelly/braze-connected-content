@@ -109,7 +109,13 @@
     "Bodytext441platinum": "Ab 8 Bestellungen und insgesamt 2.000 € in den letzten 12 Monaten.",
     "Bodytext441gold": "Ab 3 Bestellungen und insgesamt 650 € in den letzten 12 Monaten.",
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
-    "BodyTextt451": "Gültig bis"
+    "BodyTextt451": "Gültig bis",
+    "Sneak Peak Email": "",
+    "Subjectline511": "Deine Sneak Peak Info",
+    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen in demnächst live",
+    "Headline511": "Deine Sneak Peak Artikel",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -221,7 +227,13 @@
     "Bodytext441platinum": "Ab 8 Bestellungen und insgesamt 2.000 € in den letzten 12 Monaten.",
     "Bodytext441gold": "Ab 3 Bestellungen und insgesamt 650 € in den letzten 12 Monaten.",
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
-    "BodyTextt451": "Gültig bis"
+    "BodyTextt451": "Gültig bis",
+    "Sneak Peak Email": "",
+    "Subjectline511": "Deine Sneak Peak Info",
+    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen in demnächst live",
+    "Headline511": "Deine Sneak Peak Artikel",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -333,6 +345,12 @@
     "Bodytext441platinum": "Ab 8 Bestellungen und insgesamt 2.000 € in den letzten 12 Monaten.",
     "Bodytext441gold": "Ab 3 Bestellungen und insgesamt 650 € in den letzten 12 Monaten.",
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
-    "BodyTextt451": "Gültig bis"
+    "BodyTextt451": "Gültig bis",
+    "Sneak Peak Email": "",
+    "Subjectline511": "Deine Sneak Peak Info",
+    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen in demnächst live",
+    "Headline511": "Deine Sneak Peak Artikel",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
   }
 }
