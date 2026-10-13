@@ -124,7 +124,9 @@
     "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
     "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
     "BodyText632": "Kundenkonto.",
-    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "BodyText641": "Mit freundlichen Grüßen,",
+    "BodyText642": "Dein Buddy & Selly Team"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -251,7 +253,9 @@
     "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
     "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
     "BodyText632": "Kundenkonto.",
-    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "BodyText641": "Mit freundlichen Grüßen,",
+    "BodyText642": "Dein Buddy & Selly Team"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -378,6 +382,8 @@
     "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
     "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
     "BodyText632": "Kundenkonto.",
-    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "BodyText641": "Mit freundlichen Grüßen,",
+    "BodyText642": "Dein Buddy & Selly Team"
   }
 }
