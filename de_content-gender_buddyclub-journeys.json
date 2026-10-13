@@ -115,7 +115,16 @@
     "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
     "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
-    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
+    "Opted-Out Confirmation Email": "",
+    "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
+    "Preheader611": "Deine Vorteile sind ab sofort deaktiviert – zurückkommen kannst Du jederzeit.",
+    "Headline611": "Deine Abmeldung ist bestätigt",
+    "BodyText611": "Du hast Dich vom Buddy Club abgemeldet, und wir haben das für Dich erledigt. Deine Buddy-Club-Vorteile sind ab sofort nicht mehr aktiv.",
+    "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
+    "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
+    "BodyText632": "Kundenkonto.",
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -233,7 +242,16 @@
     "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
     "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
-    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
+    "Opted-Out Confirmation Email": "",
+    "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
+    "Preheader611": "Deine Vorteile sind ab sofort deaktiviert – zurückkommen kannst Du jederzeit.",
+    "Headline611": "Deine Abmeldung ist bestätigt",
+    "BodyText611": "Du hast Dich vom Buddy Club abgemeldet, und wir haben das für Dich erledigt. Deine Buddy-Club-Vorteile sind ab sofort nicht mehr aktiv.",
+    "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
+    "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
+    "BodyText632": "Kundenkonto.",
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -351,6 +369,15 @@
     "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
     "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
-    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:"
+    "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
+    "Opted-Out Confirmation Email": "",
+    "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
+    "Preheader611": "Deine Vorteile sind ab sofort deaktiviert – zurückkommen kannst Du jederzeit.",
+    "Headline611": "Deine Abmeldung ist bestätigt",
+    "BodyText611": "Du hast Dich vom Buddy Club abgemeldet, und wir haben das für Dich erledigt. Deine Buddy-Club-Vorteile sind ab sofort nicht mehr aktiv.",
+    "BodyText621": "Was das für Dich heißt: Dein Kundenkonto, Deine Bestellungen und Deine Verkäufe bleiben ganz normal bestehen. Du wirst nicht mehr automatisch in ein Level aufgenommen, auch wenn Du die Voraussetzungen erfüllst. Und Du bekommst keine Buddy-Club-Mails mehr von uns.",
+    "BodyText631": "War das ein Versehen? Du kannst jederzeit wieder einsteigen, ganz einfach in Deinem",
+    "BodyText632": "Kundenkonto.",
+    "BodyText632Link": "https://www.buddyandselly.com/de-de/login?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm"
   }
 }
