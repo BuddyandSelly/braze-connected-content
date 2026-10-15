@@ -134,11 +134,9 @@
     "Preheader711silver": "Unser Geschenk an Dich als Buddy Club Silber Mitglied.",
     "Preheader711gold": "Unser Geschenk an Dich als Buddy Club Gold Mitglied.",
     "Preheader711platinum": "Unser Geschenk an Dich als Buddy Club Platin Mitglied.",
-    "Headline711": "HAPPY BIRTHDAY",
     "greeting711": "Alles Gute,",
     "name711": "{{${first_name} | default: 'Geburtstagskind'}}!",
-    "Bodytext711": "Heute feiern wir Dich. Danke, dass Du Teil vom Buddy Club bist – darum gibt's dieses Jahr ein Geschenk von uns. Such Dir etwas aus, das es nur einmal gibt.",
-    "Headline721": "Dein Geburtstagsgeschenk",
+    "Bodytext711": "Heute feiern wir Dich – mit einem Geschenk von uns.",
     "Headline731silver": "Buddy Club Silber",
     "Headline731gold": "Buddy Club Gold",
     "Headline731platinum": "Buddy Club Platin",
@@ -152,7 +150,7 @@
     "CTA711": "GESCHENK EINLÖSEN",
     "CTA711Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid=0uu074k31ga5&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "Bodytext731": "Jedes Teil ein Unikat. Wenn Dein Lieblingsstück weg ist, kommt es nicht zurück.",
-    "TnCs711": "*Der Geburtstagsrabatt ist einmal im Geburtstagsmonat einlösbar (Silber 20 %, Gold 25 %, Platin 30 %) und setzt ein hinterlegtes Geburtsdatum voraus. Nicht mit anderen Rabatten, Gutscheinen oder Aktionen kombinierbar. Keine Barauszahlung."
+    "TnCs711": "*Der Geburtstagsrabatt (Silber 20 %, Gold 25 %, Platin 30 %) ist einmalig innerhalb von 7 Tagen ab Deinem Geburtstag einlösbar und setzt ein hinterlegtes Geburtsdatum voraus. Er ist nicht mit anderen Rabatten oder Aktionen kombinierbar und kann nicht bar ausgezahlt werden."
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -289,11 +287,9 @@
     "Preheader711silver": "Unser Geschenk an Dich als Buddy Club Silber Mitglied.",
     "Preheader711gold": "Unser Geschenk an Dich als Buddy Club Gold Mitglied.",
     "Preheader711platinum": "Unser Geschenk an Dich als Buddy Club Platin Mitglied.",
-    "Headline711": "HAPPY BIRTHDAY",
     "greeting711": "Alles Gute,",
     "name711": "{{${first_name} | default: 'Geburtstagskind'}}!",
-    "Bodytext711": "Heute feiern wir Dich. Danke, dass Du Teil vom Buddy Club bist – darum gibt's dieses Jahr ein Geschenk von uns. Such Dir etwas aus, das es nur einmal gibt.",
-    "Headline721": "Dein Geburtstagsgeschenk",
+    "Bodytext711": "Heute feiern wir Dich – mit einem Geschenk von uns.",
     "Headline731silver": "Buddy Club Silber",
     "Headline731gold": "Buddy Club Gold",
     "Headline731platinum": "Buddy Club Platin",
@@ -307,7 +303,7 @@
     "CTA711": "GESCHENK EINLÖSEN",
     "CTA711Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid=0uu074k31ga5&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "Bodytext731": "Jedes Teil ein Unikat. Wenn Dein Lieblingsstück weg ist, kommt es nicht zurück.",
-    "TnCs711": "*Der Geburtstagsrabatt ist einmal im Geburtstagsmonat einlösbar (Silber 20 %, Gold 25 %, Platin 30 %) und setzt ein hinterlegtes Geburtsdatum voraus. Nicht mit anderen Rabatten, Gutscheinen oder Aktionen kombinierbar. Keine Barauszahlung."
+    "TnCs711": "*Der Geburtstagsrabatt (Silber 20 %, Gold 25 %, Platin 30 %) ist einmalig innerhalb von 7 Tagen ab Deinem Geburtstag einlösbar und setzt ein hinterlegtes Geburtsdatum voraus. Er ist nicht mit anderen Rabatten oder Aktionen kombinierbar und kann nicht bar ausgezahlt werden."
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -444,11 +440,9 @@
     "Preheader711silver": "Unser Geschenk an Dich als Buddy Club Silber Mitglied.",
     "Preheader711gold": "Unser Geschenk an Dich als Buddy Club Gold Mitglied.",
     "Preheader711platinum": "Unser Geschenk an Dich als Buddy Club Platin Mitglied.",
-    "Headline711": "HAPPY BIRTHDAY",
     "greeting711": "Alles Gute,",
     "name711": "{{${first_name} | default: 'Geburtstagskind'}}!",
-    "Bodytext711": "Heute feiern wir Dich. Danke, dass Du Teil vom Buddy Club bist – darum gibt's dieses Jahr ein Geschenk von uns. Such Dir etwas aus, das es nur einmal gibt.",
-    "Headline721": "Dein Geburtstagsgeschenk",
+    "Bodytext711": "Heute feiern wir Dich – mit einem Geschenk von uns.",
     "Headline731silver": "Buddy Club Silber",
     "Headline731gold": "Buddy Club Gold",
     "Headline731platinum": "Buddy Club Platin",
@@ -462,6 +456,6 @@
     "CTA711": "GESCHENK EINLÖSEN",
     "CTA711Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid=0uu074k31ga5&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=button&klar_source=crm",
     "Bodytext731": "Jedes Teil ein Unikat. Wenn Dein Lieblingsstück weg ist, kommt es nicht zurück.",
-    "TnCs711": "*Der Geburtstagsrabatt ist einmal im Geburtstagsmonat einlösbar (Silber 20 %, Gold 25 %, Platin 30 %) und setzt ein hinterlegtes Geburtsdatum voraus. Nicht mit anderen Rabatten, Gutscheinen oder Aktionen kombinierbar. Keine Barauszahlung."
+    "TnCs711": "*Der Geburtstagsrabatt (Silber 20 %, Gold 25 %, Platin 30 %) ist einmalig innerhalb von 7 Tagen ab Deinem Geburtstag einlösbar und setzt ein hinterlegtes Geburtsdatum voraus. Er ist nicht mit anderen Rabatten oder Aktionen kombinierbar und kann nicht bar ausgezahlt werden."
   }
 }
