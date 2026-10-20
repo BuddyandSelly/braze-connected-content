@@ -1,3 +1,6 @@
+
+de_content-gender_buddyclub-journeys.json
+100%
 {
   "Female": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -84,7 +87,7 @@
     "Bodytext331none": "Ab 2 Bestellungen und insgesamt 300 € bist Du wieder Silber.",
     "CTA311": "ZU DEN NEW-INS",
     "CTA311Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid=hbg8kwu5kplb&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
+    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast Du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
     "TnCs321": "Jede Bestellung zählt ab sofort für Dein nächstes Level.",
     "60 Day Downgrade Warning Email": "",
     "Subjectline411platinum": "Noch 60 Tage Platinum.",
@@ -111,10 +114,10 @@
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
     "BodyTextt451": "Gültig bis",
     "Sneak Peak Email": "",
-    "Subjectline511": "Deine Sneak Peak Info",
-    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
+    "Subjectline511": "Deine Sneak Peak Info: Du erfährst es zuerst",
+    "Preheader511": "Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
-    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peaks demnächst live gehen",
     "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
     "Opted-Out Confirmation Email": "",
     "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
@@ -237,7 +240,7 @@
     "Bodytext331none": "Ab 2 Bestellungen und insgesamt 300 € bist Du wieder Silber.",
     "CTA311": "ZU DEN NEW-INS",
     "CTA311Link": "https://www.buddyandselly.com/de-de/herren/new-in?lid=hbg8kwu5kplb&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
+    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast Du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
     "TnCs321": "Jede Bestellung zählt ab sofort für Dein nächstes Level.",
     "60 Day Downgrade Warning Email": "",
     "Subjectline411platinum": "Noch 60 Tage Platinum.",
@@ -264,10 +267,10 @@
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
     "BodyTextt451": "Gültig bis",
     "Sneak Peak Email": "",
-    "Subjectline511": "Deine Sneak Peak Info",
-    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
+    "Subjectline511": "Deine Sneak Peak Info: Du erfährst es zuerst",
+    "Preheader511": "Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
-    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peaks demnächst live gehen",
     "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
     "Opted-Out Confirmation Email": "",
     "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
@@ -390,7 +393,7 @@
     "Bodytext331none": "Ab 2 Bestellungen und insgesamt 300 € bist Du wieder Silber.",
     "CTA311": "ZU DEN NEW-INS",
     "CTA311Link": "https://www.buddyandselly.com/de-de/damen/new-in?lid=hbg8kwu5kplb&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
+    "TnCs311": "Laufzeit ab Beitritt 12 Monate - innerhalb der 12 Monate hast Du die Möglichkeit aufzusteigen in ein höheres Level. Mit dem Aufstieg wird die Laufzeit neu gesetzt.\n",
     "TnCs321": "Jede Bestellung zählt ab sofort für Dein nächstes Level.",
     "60 Day Downgrade Warning Email": "",
     "Subjectline411platinum": "Noch 60 Tage Platinum.",
@@ -417,10 +420,10 @@
     "Bodytext441silver": "Ab 2 Bestellungen und insgesamt 300 € in den letzten 12 Monaten.",
     "BodyTextt451": "Gültig bis",
     "Sneak Peak Email": "",
-    "Subjectline511": "Deine Sneak Peak Info",
-    "Preheader511": "Wir informieren Dich: Folgende Artikel gehen demnächst live",
+    "Subjectline511": "Deine Sneak Peak Info: Du erfährst es zuerst",
+    "Preheader511": "Folgende Artikel gehen demnächst live",
     "Headline511": "Deine Sneak Peak Artikel",
-    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peak Präferenzen live gehen",
+    "BodyText511": "in dieser Email erhältst Du vor allen anderen die Info welche Deine Sneak Peaks demnächst live gehen",
     "BodyText521": "Folgende Sneak Peaks gehen demnächst live:",
     "Opted-Out Confirmation Email": "",
     "Subjectline611": "Bestätigt: Deine Buddy-Club-Mitgliedschaft ist beendet",
@@ -459,3 +462,4 @@
     "TnCs711": "*Der Geburtstagsrabatt (Silber 20 %, Gold 25 %, Platin 30 %) ist einmalig innerhalb von 7 Tagen ab Deinem Geburtstag einlösbar und setzt ein hinterlegtes Geburtsdatum voraus. Er ist nicht mit anderen Rabatten oder Aktionen kombinierbar und kann nicht bar ausgezahlt werden."
   }
 }
+Displaying de_content-gender_buddyclub-journeys.json.
