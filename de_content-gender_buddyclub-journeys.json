@@ -1,6 +1,3 @@
-
-de_content-gender_buddyclub-journeys.json
-100%
 {
   "Female": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -462,4 +459,3 @@ de_content-gender_buddyclub-journeys.json
     "TnCs711": "*Der Geburtstagsrabatt (Silber 20 %, Gold 25 %, Platin 30 %) ist einmalig innerhalb von 7 Tagen ab Deinem Geburtstag einlösbar und setzt ein hinterlegtes Geburtsdatum voraus. Er ist nicht mit anderen Rabatten oder Aktionen kombinierbar und kann nicht bar ausgezahlt werden."
   }
 }
-Displaying de_content-gender_buddyclub-journeys.json.
