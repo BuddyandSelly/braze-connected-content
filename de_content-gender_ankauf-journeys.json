@@ -617,12 +617,12 @@
     "Bulletpoint5811": "Paket verschickt:",
     "Bulletpoint5812": "Danke – Dein Paket ist bei DHL abgegeben.",
     "Bulletpoint5821": "Unterwegs zu uns:",
-    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel [Z] Werktage.",
+    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel 3–4 Werktage.",
     "Bulletpoint5831": "Prüfung durch unsere Expert:innen:",
     "Bulletpoint5832": "Echtheit und Zustand, Detail für Detail.",
     "Bulletpoint5841": "Dein Angebot:",
-    "Bulletpoint5842": "Innerhalb von [X] Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
-    "Bodytext5811": "Sobald Dein Paket bei uns ist, melden wir uns. Bis dahin gibt es für Dich nichts weiter zu tun."
+    "Bulletpoint5842": "Innerhalb von 5 Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
+    "Bodytext5811": "Sobald Dein Paket bei uns angekommen ist, erhältst Du eine Bestätigung per E-Mail. Bis dahin gibt es für Dich nichts weiter zu tun."
   },
   "Male": {
     "Greeting ": "",
@@ -1242,12 +1242,12 @@
     "Bulletpoint5811": "Paket verschickt:",
     "Bulletpoint5812": "Danke – Dein Paket ist bei DHL abgegeben.",
     "Bulletpoint5821": "Unterwegs zu uns:",
-    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel [Z] Werktage.",
+    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel 3–4 Werktage.",
     "Bulletpoint5831": "Prüfung durch unsere Expert:innen:",
     "Bulletpoint5832": "Echtheit und Zustand, Detail für Detail.",
     "Bulletpoint5841": "Dein Angebot:",
-    "Bulletpoint5842": "Innerhalb von [X] Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
-    "Bodytext5811": "Sobald Dein Paket bei uns ist, melden wir uns. Bis dahin gibt es für Dich nichts weiter zu tun."
+    "Bulletpoint5842": "Innerhalb von 5 Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
+    "Bodytext5811": "Sobald Dein Paket bei uns angekommen ist, erhältst Du eine Bestätigung per E-Mail. Bis dahin gibt es für Dich nichts weiter zu tun."
   },
   "Unknown": {
     "Greeting ": "",
@@ -1867,11 +1867,11 @@
     "Bulletpoint5811": "Paket verschickt:",
     "Bulletpoint5812": "Danke – Dein Paket ist bei DHL abgegeben.",
     "Bulletpoint5821": "Unterwegs zu uns:",
-    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel [Z] Werktage.",
+    "Bulletpoint5822": "Deine Stücke sind auf dem Weg zu unseren Expert:innen. Das dauert in der Regel 3–4 Werktage.",
     "Bulletpoint5831": "Prüfung durch unsere Expert:innen:",
     "Bulletpoint5832": "Echtheit und Zustand, Detail für Detail.",
     "Bulletpoint5841": "Dein Angebot:",
-    "Bulletpoint5842": "Innerhalb von [X] Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
-    "Bodytext5811": "Sobald Dein Paket bei uns ist, melden wir uns. Bis dahin gibt es für Dich nichts weiter zu tun."
+    "Bulletpoint5842": "Innerhalb von 5 Werktagen nach Ankunft per E-Mail – für Dein gesamtes Paket. Passt es nicht, senden wir Dir Deine Stücke kostenfrei zurück.",
+    "Bodytext5811": "Sobald Dein Paket bei uns angekommen ist, erhältst Du eine Bestätigung per E-Mail. Bis dahin gibt es für Dich nichts weiter zu tun."
   }
 }
