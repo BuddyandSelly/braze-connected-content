@@ -426,7 +426,13 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "What's Trending Email": ""
+    "CSAT Surveys": "",
+    "Subjectline3411": "Wie war deine Bestellung?",
+    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
+    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
+    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
+    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
+    "CTA3411": "Jetzt bewerten"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -855,7 +861,13 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "What's Trending Email": ""
+    "CSAT Surveys": "",
+    "Subjectline3411": "Wie war deine Bestellung?",
+    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
+    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
+    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
+    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
+    "CTA3411": "Jetzt bewerten"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -1284,6 +1296,12 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "What's Trending Email": ""
+    "CSAT Surveys": "",
+    "Subjectline3411": "Wie war deine Bestellung?",
+    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
+    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
+    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
+    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
+    "CTA3411": "Jetzt bewerten"
   }
 }
