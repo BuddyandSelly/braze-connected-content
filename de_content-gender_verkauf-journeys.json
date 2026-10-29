@@ -429,10 +429,9 @@
     "CSAT Surveys": "",
     "Subjectline3411": "Wie war deine Bestellung?",
     "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
-    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
-    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
-    "CTA3411": "Jetzt bewerten"
+    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
+    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
+    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
   },
   "Male": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -864,10 +863,9 @@
     "CSAT Surveys": "",
     "Subjectline3411": "Wie war deine Bestellung?",
     "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
-    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
-    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
-    "CTA3411": "Jetzt bewerten"
+    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
+    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
+    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
   },
   "Unknown": {
     "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
@@ -1299,9 +1297,8 @@
     "CSAT Surveys": "",
     "Subjectline3411": "Wie war deine Bestellung?",
     "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Ist Dein neues Lieblingsstück gut angekommen?",
-    "Bodytext3411": "wir hoffen, es macht Dir genauso viel Freude wie uns. Deshalb eine kurze Frage: Wie wahrscheinlich ist es, dass Du Buddy & Selly weiterempfiehlst?",
-    "Bodytext3421": "Ein Klick genügt – dauert keine 10 Sekunden.",
-    "CTA3411": "Jetzt bewerten"
+    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
+    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
+    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
   }
 }
