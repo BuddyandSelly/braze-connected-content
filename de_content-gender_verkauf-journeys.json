@@ -1,6 +1,7 @@
 {
   "Female": {
-    "greeting": "",
+    "greeting for emails": "",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -433,7 +434,8 @@
     "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   },
   "Male": {
-    "greeting": "",
+    "greeting for emails": "",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -866,7 +868,8 @@
     "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   },
   "Unknown": {
-    "greeting": "",
+    "greeting for emails": "",
+    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -1299,3 +1302,4 @@
     "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   }
 }
+
