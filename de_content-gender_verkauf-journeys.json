@@ -1,6 +1,6 @@
 {
   "Female": {
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
+    "greeting": "",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -426,15 +426,14 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "CSAT Surveys": "",
-    "Subjectline3411": "Wie war deine Bestellung?",
-    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
-    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
-    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
+    "1buyer_survey": "",
+    "subjectline3411": "Dein 5% Rabattcode",
+    "preheader3411": "Danke für Deine Teilnahme",
+    "Headline3411": "Jetzt shoppen und sparen",
+    "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   },
   "Male": {
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
+    "greeting": "",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -860,15 +859,14 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "CSAT Surveys": "",
-    "Subjectline3411": "Wie war deine Bestellung?",
-    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
-    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
-    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
+    "1buyer_survey": "",
+    "subjectline3411": "Dein 5% Rabattcode",
+    "preheader3411": "Danke für Deine Teilnahme",
+    "Headline3411": "Jetzt shoppen und sparen",
+    "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   },
   "Unknown": {
-    "greeting": "Hi {{${first_name} | default: 'Fashion Lover'}},",
+    "greeting": "",
     "Welcome Email DOI": "",
     "Subjectline1811": "Willkommen in Deinem neuen Zuhause für Luxusmode",
     "Preheader1811": "Luxus neu gedacht – nachhaltig, geprüft & bis zu -70% günstiger als Neupreise",
@@ -1294,11 +1292,11 @@
     "Bulletpoint2411": "Innerhalb von 30 Tagen nach Erhalt der Bestellung retournieren",
     "Bulletpoint2421": "Wir senden Dir Den retournierten Betrag auf die ausgewählte Zahlungsweise zurück",
     "TnCs2411": "*Der Coupon ist nur gültig für 30 Tage ab Versand dieser Email. Es gilt ein Rabatt in Höhe von bis zu 30%. Der Rabattcode muss im Warenkorb in das Gutscheinfeld eingegeben werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet. ",
-    "CSAT Surveys": "",
-    "Subjectline3411": "Wie war deine Bestellung?",
-    "Preheader3411": "Eine Frage, ein Klick – dauert keine 10 Sekunden.",
-    "Headline3411": "Hat Dir Deine Bestellung gefallen?",
-    "Bodytext3411": "Dein Paket ist angekommen – wir hoffen, Du hast Freude an Deinem neuen Lieblingsstück. Eine kurze Frage an Dich:",
-    "Bodytext3421": "Wie wahrscheinlich ist es, dass Du uns einem Freund oder einer Freundin weiterempfiehlst?"
+    "1buyer_survey": "",
+    "subjectline3411": "Dein 5% Rabattcode",
+    "preheader3411": "Danke für Deine Teilnahme",
+    "Headline3411": "Jetzt shoppen und sparen",
+    "Bodytext3411": "Löse gleich Deinen 5% Rabattcode in Deinem Warenkorb ein. Der Code ist gültig auf alles, inklusive Artikel im Sale."
   }
 }
+Displaying de_content-gender_buddyclub-journeys.json.
