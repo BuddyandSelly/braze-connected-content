@@ -552,11 +552,14 @@
     "2buyer Email 2": "",
     "Subjectline4211": "Diese Stücke passen zu Deinem Geschmack ✨”",
     "Preheader4211": "„Kuratiert für Dich: neue Lieblingsstücke”",
+    "Headline4211": "Designer-Pieces, die Zu Deinem letzten ",
+    "Headline4212": "Kauf passen",
     "Bodytext4211": "Du hast bei uns schon zweimal etwas gefunden – Zeit für die nächste Entdeckung. Wir haben eine kleine, feine Auswahl für Dich zusammengestellt, die zu Deinem Geschmack passt. Da bei uns jedes Teil ein Einzelstück ist, lohnt sich ein Blick, bevor es jemand anderes trägt.",
     "Bodytext4221": "Diese Teile erinnern uns an das, was du Dir schon gemerkt hast.",
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt."
+    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
+    "2buyer Email 3": ""
   },
   "Male": {
     "greeting for emails": "",
@@ -1111,11 +1114,14 @@
     "2buyer Email 2": "",
     "Subjectline4211": "Diese Stücke passen zu Deinem Geschmack ✨”",
     "Preheader4211": "„Kuratiert für Dich: neue Lieblingsstücke”",
+    "Headline4211": "",
+    "Headline4212": "Kauf passen",
     "Bodytext4211": "Hi {{first_name}},\nDu hast bei uns schon zweimal etwas gefunden – Zeit für die nächste Entdeckung. Wir haben eine kleine, feine Auswahl für Dich zusammengestellt, die zu Deinem Geschmack passt. Da bei uns jedes Teil ein Einzelstück ist, lohnt sich ein Blick, bevor es jemand anderes trägt.",
     "Bodytext4221": "",
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/herren/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt."
+    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
+    "2buyer Email 3": ""
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1670,10 +1676,13 @@
     "2buyer Email 2": "",
     "Subjectline4211": "Diese Stücke passen zu Deinem Geschmack ✨”",
     "Preheader4211": "„Kuratiert für Dich: neue Lieblingsstücke”",
+    "Headline4211": "",
+    "Headline4212": "Kauf passen",
     "Bodytext4211": "Hi {{first_name}},\nDu hast bei uns schon zweimal etwas gefunden – Zeit für die nächste Entdeckung. Wir haben eine kleine, feine Auswahl für Dich zusammengestellt, die zu Deinem Geschmack passt. Da bei uns jedes Teil ein Einzelstück ist, lohnt sich ein Blick, bevor es jemand anderes trägt.",
     "Bodytext4221": "",
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
-    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt."
+    "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
+    "2buyer Email 3": ""
   }
 }
