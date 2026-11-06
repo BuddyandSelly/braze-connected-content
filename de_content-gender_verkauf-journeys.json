@@ -559,7 +559,15 @@
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
-    "2buyer Email 3": ""
+    "2buyer Email 5 discount": "",
+    "Subjectline": "Nicht vergessen: Dein 25% Gutschein ",
+    "Preheader": "Dein Gutschein ist noch 2 Tage gültig",
+    "Headline": "Jetzt nutzen und shoppen",
+    "Bodytext": "Denk dran: Bei uns kannst Du Deine Bestellung innerhalb von 30 Tagen für 2.99€ retournieren und Du bekommst Dein Geld zurück.",
+    "CTA": "Gleich sparen",
+    "CTAlink": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs4211": "*Der Rabattcode noch 2 Tage gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "2buyer Email 6 discount reminder": ""
   },
   "Male": {
     "greeting for emails": "",
@@ -1121,7 +1129,15 @@
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/herren/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
-    "2buyer Email 3": ""
+    "2buyer Email 5 discount": "",
+    "Subjectline": "Nicht vergessen: Dein 25% Gutschein ",
+    "Preheader": "Dein Gutschein ist noch 2 Tage gültig",
+    "Headline": "Jetzt nutzen und shoppen",
+    "Bodytext": "Denk dran: Bei uns kannst Du Deine Bestellung innerhalb von 30 Tagen für 2.99€ retournieren und Du bekommst Dein Geld zurück.",
+    "CTA": "Gleich sparen",
+    "CTAlink": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs4211": "*Der Rabattcode noch 2 Tage gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "2buyer Email 6 discount reminder": ""
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1683,6 +1699,14 @@
     "CTA4211": "Mehr entdecken",
     "CTAlink4211": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "Bodytext4231": "Jedes Stück bei Buddy & Selly ist geprüft und authentifiziert – pre-loved, aber garantiert echt.",
-    "2buyer Email 3": ""
+    "2buyer Email 5 discount": "",
+    "Subjectline": "Nicht vergessen: Dein 25% Gutschein ",
+    "Preheader": "Dein Gutschein ist noch 2 Tage gültig",
+    "Headline": "Jetzt nutzen und shoppen",
+    "Bodytext": "Denk dran: Bei uns kannst Du Deine Bestellung innerhalb von 30 Tagen für 2.99€ retournieren und Du bekommst Dein Geld zurück.",
+    "CTA": "Gleich sparen",
+    "CTAlink": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
+    "TnCs4211": "*Der Rabattcode noch 2 Tage gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "2buyer Email 6 discount reminder": ""
   }
 }
