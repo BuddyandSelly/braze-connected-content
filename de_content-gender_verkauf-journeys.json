@@ -568,13 +568,14 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko",
+    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
-    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig"
+    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
   },
   "Male": {
     "greeting for emails": "",
@@ -1145,13 +1146,14 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko",
+    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
-    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig"
+    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1722,12 +1724,13 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko",
+    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
-    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig"
+    "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
   }
 }
