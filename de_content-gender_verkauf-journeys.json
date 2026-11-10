@@ -575,7 +575,12 @@
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
-    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "Back in Stock Email ": "",
+    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
+    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
+    "Headline4711": "Dein Favorit ist zurück.",
+    "Headline4712": "Deine Favoriten sind zurück."
   },
   "Male": {
     "greeting for emails": "",
@@ -1153,7 +1158,12 @@
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
-    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "Back in Stock Email ": "",
+    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
+    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
+    "Headline4711": "Dein Favorit ist zurück.",
+    "Headline4712": "Deine Favoriten sind zurück."
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1731,6 +1741,11 @@
     "2buyer Email 6 discount reminder": "",
     "Subjectline4611": "Nicht vergessen: Dein 25% Gutschein ",
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
-    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet."
+    "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
+    "Back in Stock Email ": "",
+    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
+    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
+    "Headline4711": "Dein Favorit ist zurück.",
+    "Headline4712": "Deine Favoriten sind zurück."
   }
 }
