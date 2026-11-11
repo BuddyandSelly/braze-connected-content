@@ -578,10 +578,14 @@
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
     "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "Back in Stock Email ": "",
-    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
-    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
-    "Headline4711": "Dein Favorit ist zurück.",
-    "Headline4712": "Deine Favoriten sind zurück."
+    "Subjectline4711": "Jetzt ist es Deins",
+    "Subjectline4712": "Jetzt sind sie Deins",
+    "Preheader4711": "Das Warten hat ein Ende, jetzt Lieblingspiece sichern. ",
+    "Headline4711": "Dein Favorit ist zurück.*",
+    "Headline4712": "Deine Favoriten sind zurück.*",
+    "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
   },
   "Male": {
     "greeting for emails": "",
@@ -1162,10 +1166,14 @@
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
     "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "Back in Stock Email ": "",
-    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
-    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
-    "Headline4711": "Dein Favorit ist zurück.",
-    "Headline4712": "Deine Favoriten sind zurück."
+    "Subjectline4711": "Jetzt ist es Deins",
+    "Subjectline4712": "Jetzt sind sie Deins",
+    "Preheader4711": "Das Warten hat ein Ende, jetzt Lieblingspiece sichern. ",
+    "Headline4711": "Dein Favorit ist zurück.*",
+    "Headline4712": "Deine Favoriten sind zurück.*",
+    "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1746,9 +1754,13 @@
     "Preheader4611": "Dein Gutschein ist noch 2 Tage gültig",
     "TnCs4611": "*Der Rabattcode 2 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
     "Back in Stock Email ": "",
-    "Subjectline4711": "Zurück im Shop: Dein Wunschlisten-Favorit",
-    "Preheader4711": "Einmal weg, für immer weg? Diesmal nicht.",
-    "Headline4711": "Dein Favorit ist zurück.",
-    "Headline4712": "Deine Favoriten sind zurück."
+    "Subjectline4711": "Jetzt ist es Deins",
+    "Subjectline4712": "Jetzt sind sie Deins",
+    "Preheader4711": "Das Warten hat ein Ende, jetzt Lieblingspiece sichern. ",
+    "Headline4711": "Dein Favorit ist zurück.*",
+    "Headline4712": "Deine Favoriten sind zurück.*",
+    "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
   }
 }
