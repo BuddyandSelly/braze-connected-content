@@ -569,7 +569,7 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
+    "Headline4511": "30 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
@@ -585,7 +585,14 @@
     "Headline4712": "Deine Favoriten sind zurück.*",
     "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
     "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
-    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. ",
+    "Wishlist Price Drop": "",
+    "Subjectline4811": "Preisreduzierung von Deinem",
+    "Subjectline4812": "Piece.",
+    "Preheader4811": "Sei schnell und sicher Dir Dein Lieblingsstück jetzt.",
+    "Headline4811": "Dein",
+    "Headline4812": "ist jetzt günstiger. ",
+    "TnCs4811": "* Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   },
   "Male": {
     "greeting for emails": "",
@@ -1157,7 +1164,7 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
+    "Headline4511": "31 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
@@ -1173,7 +1180,14 @@
     "Headline4712": "Deine Favoriten sind zurück.*",
     "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
     "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
-    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. ",
+    "Wishlist Price Drop": "",
+    "Subjectline4811": "Preisreduzierung von Deinem",
+    "Subjectline4812": "Piece.",
+    "Preheader4811": "Sei schnell und sicher Dir Dein Lieblingsstück jetzt.",
+    "Headline4811": "Dein",
+    "Headline4812": "ist jetzt günstiger. ",
+    "TnCs4811": "* Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   },
   "Unknown": {
     "greeting for emails": "",
@@ -1745,7 +1759,7 @@
     "2buyer Email 5 discount": "",
     "Subjectline4511": "Unser Geschenk: 25% auf alles",
     "Preheader4511": "Suchen, shoppen, finden ",
-    "Headline4511": "Shoppe ohne Risiko: 30 Tage Rückgabe für nur 2,99 €.",
+    "Headline4511": "32 Tage Rückgabe für nur 2,99 €.",
     "CTA4511": "Neueste Teile entdecken",
     "CTA4511Link": "https://www.buddyandselly.com/de-de/damen/new-in/diese-woche-eingetroffen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=cta&klar_source=crm",
     "TnCs4511": "*Der Rabattcode 7 Tage ab Versand dieser Email gültig. Es gilt ein Rabatt in Höhe von 25%. Eine Barauszahlung sowie die Kombination von Rabattcodes ist nicht gestattet.",
@@ -1761,6 +1775,13 @@
     "Headline4712": "Deine Favoriten sind zurück.*",
     "Bodytext4711": "Wir benachrichtigen Dich zuerst: Dein gespeicherter Artikel ist wieder zurück im Shop und wartet darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
     "Bodytext4712": "Wir benachrichtigen Dich zuerst: Deine gespeicherten Artikel sind wieder zurück im Shop und warten darauf, von Dir neu entdeckt zu werden. Warte nicht zu lang, beliebte Produkte sind schnell vergriffen.",
-    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. "
+    "TnCs4711": "*Diese Email ist keine Garantie für Produktverfügbarkeit, Artikel können zum Zeitpunkt der Email bereits verkauft sein. ",
+    "Wishlist Price Drop": "",
+    "Subjectline4811": "Preisreduzierung von Deinem",
+    "Subjectline4812": "Piece.",
+    "Preheader4811": "Sei schnell und sicher Dir Dein Lieblingsstück jetzt.",
+    "Headline4811": "Dein",
+    "Headline4812": "ist jetzt günstiger. ",
+    "TnCs4811": "* Diese Email ist keine Garantie auf Produktverfügbarkeit. Produkte können während Versand dieser Email verkauft werden."
   }
 }
